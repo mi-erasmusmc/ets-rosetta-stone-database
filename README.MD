@@ -20,7 +20,7 @@ Java app to construct the database for the eTransafe Rosette Stone.
 3. And add the MedDRA ascii files to the ./data/meddra folder.
 4. Create empty schemas for ULMS, MedDRA and your Rosetta Stone database.
 5. Build the app `mvn clean package assembly:single`
-6. Run the app with your db connection
+6. Run the app from the project root adding your db connection
    details `java -jar target/DatabaseCreator-1.0-SNAPSHOT-jar-with-dependencies.jar -meddra <your meddra db> -umls <your umls db> -database <your rosetta stone db> -server <e.g. localhost> -user <your db user> -password <your db password>.`
 
 Notes:
