@@ -22,11 +22,11 @@ import static nl.erasmusmc.biosemantics.etransafe.parser.DateParser.VALID_END_DA
 public class CDM implements Database {
     private static final Logger logger = LogManager.getLogger();
     private static final int DELTA = 10000000;
-    private Integer englishConcept;
     private final String server;
     private final String db;
     private final String user;
     private final String password;
+    private Integer englishConcept;
     private Connection connection = null;
 
 
