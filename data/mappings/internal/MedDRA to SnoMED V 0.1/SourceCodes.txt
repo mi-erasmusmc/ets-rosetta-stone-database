@@ -1,0 +1,349 @@
+SourceCodeId	SourceCodeSystem	SourceCode	SourceName	SourceDescription	Frequency	InitialComments	InitialStatus	ReviewerComments	ReviewerStatus	LastModification	LastModifier	ReviewChecked
+1	MEDDRA	10059118	Biloma		51		Initial mapping			20190515145033		
+2	MEDDRA	10019731	Hepatitis B		450		Initial mapping			20190515145033		
+3	MEDDRA	10004663	Biliary colic		446	In the UMLS, Galbladder pain is also viewed as a synonym for biliary colic. In general, UMLS is faily liberal with mapopings. Some of these mappinmgs are debateble. 	Initial mapping			20190515145033		
+4	MEDDRA	10075445	Cholangitis infective		51		Initial mapping			20190515145033		
+5	MEDDRA	10056885	Adenoviral hepatitis		1		Initial mapping			20190515145033		
+6	MEDDRA	10068924	Anorectal varices		6	Note: DD with hemorrhoids needs to be explained? Or treat them as a single entitiy?	Initial mapping			20190515145033		
+7	MEDDRA	10071198	Allergic hepatitis		1		Initial mapping			20190515145033		
+8	MEDDRA	10058941	Bile duct necrosis		6		Initial mapping			20190515145033		
+9	MEDDRA	10023129	Jaundice cholestatic		426		Initial mapping			20190515145033		
+10	MEDDRA	10057572	Gastric varices haemorrhage		50		Initial mapping			20190524002821	Johan van der Lei	
+11	MEDDRA	10006537	Budd-Chiari syndrome		6		Initial mapping			20190515145033		
+12	MEDDRA	10057110	Hepatic mass		50		Initial mapping			20190515145033		
+13	MEDDRA	10051341	Bile duct stenosis		407		Initial mapping			20190515145033		
+14	MEDDRA	10001806	Alpha-1 anti-trypsin deficiency		1		Initial mapping			20190515145033		
+15	MEDDRA	10061760	Cholangitis chronic		6		Initial mapping			20190515145033		
+16	MEDDRA	10019705	Hepatic pain		400		Initial mapping			20190515145033		
+17	MEDDRA	10070479	Urobilinogen urine increased		49		Initial mapping			20190515145033		
+18	MEDDRA	10001942	Ammonia abnormal		1		Initial mapping			20190724144024	Johan van der Lei	
+19	MEDDRA	10049634	Cholecystocholangitis		6		No mapping available			20190603174252	Johan van der Lei	
+20	MEDDRA	10072268	Drug-induced liver injury		395		Initial mapping			20190515145033		
+21	MEDDRA	10051068	Gallbladder empyema		48		Initial mapping			20190515145033		
+22	MEDDRA	10008625	Choledochal cyst		6		Initial mapping			20190515145033		
+23	MEDDRA	10030210	Oesophageal varices haemorrhage		393		Initial mapping			20190515145033		
+24	MEDDRA	10016262	Fatty liver alcoholic		6		Initial mapping			20190515145033		
+25	MEDDRA	10060851	Hyperphosphatasaemia		389	What is the meaning? Need to discuss.	Initial mapping			20190524001545	Johan van der Lei	
+26	MEDDRA	10064558	Total bile acids increased		48	Checked by Walter	Initial mapping modified			20220510140500	Johan van der Lei	
+27	MEDDRA	10064902	Anomalous arrangement of pancreaticobiliary duct		1		No mapping available			20190515145033		
+28	MEDDRA	10024652	Liver abscess		358		Initial mapping			20190515145033		
+29	MEDDRA	10052285	Focal nodular hyperplasia		6		Initial mapping			20190515145033		
+30	MEDDRA	10023138	Jaundice neonatal		357		Initial mapping			20190515145033		
+31	MEDDRA	10003971	Bacillary angiomatosis		1		Initial mapping			20190515145033		
+32	MEDDRA	10001549	Alanine aminotransferase decreased		47	There is no dedicated Snomend term for decreased ALT. 	Initial mapping			20190724141908	Johan van der Lei	
+33	MEDDRA	10019634	Hepatic artery aneurysm		6		Initial mapping			20190515145033		
+34	MEDDRA	10020580	Hyperbilirubinaemia neonatal		335		Initial mapping			20190515145033		
+35	MEDDRA	10019754	Hepatitis cholestatic		47		Initial mapping			20190515145033		
+36	MEDDRA	10062934	Bile duct pressure increased		1		No mapping available			20190515145033		
+37	MEDDRA	10060793	Hepatic enzyme increased		6		Initial mapping			20190515145033		
+38	MEDDRA	10056972	Hydrocholecystis		47		Initial mapping			20190515145033		
+39	MEDDRA	10060105	Liver function test		324		Initial mapping			20190619142541	Johan van der Lei	
+40	MEDDRA	10019780	Hepatitis infectious		6	In Snomed, ingectious hepatitis is a synonym of hepatitis B. Needs to be discussed.	Initial mapping			20190515145033		
+41	MEDDRA	10058528	Bile output increased		1		Initial mapping			20190724143221	Johan van der Lei	
+42	MEDDRA	10009208	Cirrhosis alcoholic		45		Initial mapping			20190515145033		
+43	MEDDRA	10077835	Biliary dyspepsia		1		No mapping available			20190515145033		
+44	MEDDRA	10068356	Biliary polyp		1	In Snomed, this diagnosis is standard subdivided in either malignant or bening polyp -- they result in a single already excisting Snomed code. 	Initial mapping			20190515145033		
+45	MEDDRA	10005370	Blood bilirubin unconjugated increased		313		Initial mapping			20190515145033		
+46	MEDDRA	10051199	Hepatic artery stenosis		44		Initial mapping			20190515145033		
+47	MEDDRA	10019781	Hepatitis infectious mononucleosis		6		Initial mapping			20190515145033		
+48	MEDDRA	10004792	Biopsy liver abnormal		1		Initial mapping			20190515145033		
+49	MEDDRA	10062631	Cholecystitis infective		301		Initial mapping			20190515145033		
+50	MEDDRA	10048834	Polycystic liver disease		6		Initial mapping			20190515145033		
+51	MEDDRA	10005367	Blood bilirubin normal		1		Initial mapping			20190515145033		
+52	MEDDRA	10072160	Chronic graft versus host disease in liver		43		Initial mapping			20190515145033		
+53	MEDDRA	10048611	Cholaemia		1		No mapping available			20190515145033		
+54	MEDDRA	10036206	Portal vein thrombosis		246		Initial mapping			20190515145033		
+55	MEDDRA	10050899	Porcelain gallbladder		6		Initial mapping			20190515145033		
+56	MEDDRA	10058120	Tuberculosis liver		6		Initial mapping			20190515145033		
+57	MEDDRA	10004593	Bile duct cancer		234		Initial mapping			20190619142434	Johan van der Lei	
+58	MEDDRA	10053219	Non-alcoholic steatohepatitis		43		Initial mapping			20190515145033		
+59	MEDDRA	10053629	Cholangiectasis acquired		1		Initial mapping			20190515145033		
+60	MEDDRA	10009344	Clonorchiasis		1		Initial mapping			20190515145033		
+61	MEDDRA	10019837	Hepatocellular injury		234		Initial mapping			20190515145033		
+62	MEDDRA	10068925	Anorectal varices haemorrhage		5		Initial mapping			20190724141300	Johan van der Lei	
+63	MEDDRA	10008605	Cholangitis acute		219		Initial mapping			20190515145033		
+64	MEDDRA	10068547	Bacterascites		5		No mapping available			20190515145033		
+65	MEDDRA	10066263	Acute graft versus host disease in liver		42	Note that the MEDDRA code is specific for the liver. Cannot be mapped to a single Snomed code.	Initial mapping			20190515145033		
+66	MEDDRA	10056533	Congenital hepatic fibrosis		1		Initial mapping			20190515145033		
+67	MEDDRA	10019727	Hepatitis acute		216		Initial mapping			20190515145033		
+68	MEDDRA	10004665	Biliary fistula		41		Initial mapping			20190515145033		
+69	MEDDRA	10056091	Varices oesophageal		198		Initial mapping			20190515145033		
+70	MEDDRA	10068289	Cystic fibrosis hepatic disease		1		Initial mapping			20190515145033		
+71	MEDDRA	10065202	Biliary tract infection bacterial		5		Initial mapping			20190515145033		
+72	MEDDRA	10049704	Gallbladder polyp		186		Initial mapping			20190515145033		
+73	MEDDRA	10071265	Diabetic hepatopathy		1		No mapping available			20190515145033		
+74	MEDDRA	10073072	Gallbladder neoplasm		5		Initial mapping			20190515145033		
+75	MEDDRA	10010186	Complications of transplanted liver		41		Initial mapping			20190515145033		
+76	MEDDRA	10047216	Venoocclusive liver disease		172		Initial mapping			20190515145033		
+77	MEDDRA	10051010	Duodenal varices		1		Initial mapping			20190515145033		
+78	MEDDRA	10017637	Gallbladder oedema		5		Initial mapping			20190515145033		
+79	MEDDRA	10052554	Foetor hepaticus		1		Initial mapping			20190515145033		
+80	MEDDRA	10067979	Traumatic liver injury		41		Initial mapping			20190515145033		
+81	MEDDRA	10017626	Gallbladder disorder		168		Initial mapping			20190515145033		
+82	MEDDRA	10067796	Haemorrhagic hepatic cyst		5		No mapping available			20190515145033		
+83	MEDDRA	10067125	Liver injury		167		Initial mapping			20190515145033		
+84	MEDDRA	10076240	Gallbladder adenoma		1		Initial mapping			20190515145033		
+85	MEDDRA	10019636	Hepatic artery thrombosis		40		Initial mapping			20190515145033		
+86	MEDDRA	10051991	Hepatic artery occlusion		5		Initial mapping			20190619142751	Johan van der Lei	
+87	MEDDRA	10061695	Biliary tract infection		165		Initial mapping			20190515145033		
+88	MEDDRA	10073067	Gallbladder adenosquamous carcinoma		1		Initial mapping			20190515145033		
+89	MEDDRA	10001627	Alcoholic liver disease		39		Initial mapping			20190515145033		
+90	MEDDRA	10052274	Hepatopulmonary syndrome		5		Initial mapping			20190515145033		
+91	MEDDRA	10019795	Hepatitis toxic		165		Initial mapping			20190515145033		
+92	MEDDRA	10019845	Hepatorenal failure		39	Note that in Snomed hepatorenal failure and hepatorenal syndrome are considered synonyms.	Initial mapping			20190515145033		
+93	MEDDRA	10058281	Gallbladder cancer stage II		1	mapped uphill	Initial mapping			20190515145033		
+94	MEDDRA	10023130	Jaundice extrahepatic obstructive		5		Initial mapping			20190515145033		
+95	MEDDRA	10057987	Gallbladder mucocoele		1		Initial mapping			20190515145033		
+96	MEDDRA	10077692	Liver function test increased		165		Initial mapping			20190515145033		
+97	MEDDRA	10049478	Liver graft loss		5		No mapping available			20190515145033		
+98	MEDDRA	10050897	Portal hypertensive gastropathy		36		Initial mapping			20190515145033		
+99	MEDDRA	10019719	Hepatitis A		96		Initial mapping			20190515145033		
+100	MEDDRA	10061947	Liver scan abnormal		5		Initial mapping			20190603180740	Johan van der Lei	
+101	MEDDRA	10036200	Portal hypertension		164		Initial mapping			20190515145033		
+102	MEDDRA	10068997	Hepatic artery flow decreased		1		No mapping available			20190515145033		
+103	MEDDRA	10019695	Hepatic neoplasm		163		Initial mapping			20190515145033		
+104	MEDDRA	10062685	Hepatic enzyme abnormal		91		Initial mapping			20190515145033		
+105	MEDDRA	10065274	Hepatic calcification		1		No mapping available			20190515145033		
+106	MEDDRA	10019646	Hepatic cyst		161		Initial mapping			20190515145033		
+107	MEDDRA	10062195	Metastases to biliary tract		5		Initial mapping			20190515145033		
+108	MEDDRA	10056529	Biliary dyskinesia		90		Initial mapping			20190515145033		
+109	MEDDRA	10049653	Hepatic candidiasis		1		Initial mapping			20190603175458	Johan van der Lei	
+110	MEDDRA	10019677	Hepatic haemorrhage		89		Initial mapping			20190515145033		
+111	MEDDRA	10055110	Hepatic cancer metastatic		155		Initial mapping			20190515145033		
+112	MEDDRA	10073851	Tumour of ampulla of Vater		5		Initial mapping			20190515145033		
+113	MEDDRA	10023025	Ischaemic hepatitis		89		Initial mapping			20190515145033		
+114	MEDDRA	10060794	Hepatic enzyme decreased		1		Initial mapping			20190724144501	Johan van der Lei	
+115	MEDDRA	10000804	Acute hepatic failure		148		Initial mapping			20190724142100	Johan van der Lei	
+116	MEDDRA	10017638	Gallbladder pain		85		Initial mapping			20190515145033		
+117	MEDDRA	10067376	Ampulla of Vater stenosis		4		Initial mapping			20190515145033		
+118	MEDDRA	10062708	Biliary abscess		4		No mapping available			20190515145033		
+119	MEDDRA	10017636	Gallbladder obstruction		81		Initial mapping			20190524002608	Johan van der Lei	
+120	MEDDRA	10064668	Hepatic infiltration eosinophilic		1		No mapping available			20190515145033		
+121	MEDDRA	10053113	Bilirubin urine		4	What is exactly the meaning of this term in MedDRA? As this is unbder investigations, I belive that it refers to measurement in urine (and not the presence of bilirubin in the urine).	Initial mapping			20190515145033		
+122	MEDDRA	10024715	Liver transplant rejection		143		Initial mapping			20190515145033		
+123	MEDDRA	10056522	Infection		79		Initial mapping			20190724124556	Johan van der Lei	
+124	MEDDRA	10008598	Cholangiogram		4		Initial mapping			20190515145033		
+125	MEDDRA	10051659	Hepatic siderosis		1		Initial mapping			20190515145033		
+126	MEDDRA	10017614	Gallbladder cancer		137		Initial mapping			20190515145033		
+127	MEDDRA	10061998	Hepatic lesion		75		Initial mapping			20190515145033		
+128	MEDDRA	10067388	Hepatic angiosarcoma		4		Initial mapping			20190515145033		
+129	MEDDRA	10019768	Hepatitis E		73		Initial mapping			20190515145033		
+130	MEDDRA	10074494	Hepatic vascular thrombosis		1		Initial mapping			20190724145141	Johan van der Lei	
+131	MEDDRA	10019773	Hepatitis G		1		Initial mapping			20190515145033		
+132	MEDDRA	10019659	Hepatic echinococciasis		4		Initial mapping			20190515145033		
+133	MEDDRA	10062883	Biliary anastomosis complication		121		Initial mapping			20190515145033		
+134	MEDDRA	10019645	Hepatic congestion		67		Initial mapping			20190515145033		
+135	MEDDRA	10019786	Hepatitis non-A non-B		1		Initial mapping			20190515145033		
+136	MEDDRA	10023128	Jaundice acholuric		4		No mapping available			20190724125801	Johan van der Lei	
+137	MEDDRA	10008593	Cholangiocarcinoma		118		Initial mapping			20190524002316	Johan van der Lei	
+138	MEDDRA	10020575	Hyperammonaemia		116		Initial mapping			20190515145033		
+139	MEDDRA	10067266	Liver contusion		4		Initial mapping			20190515145033		
+140	MEDDRA	10001547	Alanine aminotransferase abnormal		66		Initial mapping			20190515145033		
+141	MEDDRA	10019799	Hepatitis viral		111		Initial mapping			20190515145033		
+142	MEDDRA	10019819	Hepato-lenticular degeneration		1		Initial mapping			20190515145033		
+143	MEDDRA	10051667	Metastases to gallbladder		4		Initial mapping			20190515145033		
+144	MEDDRA	10001946	Ammonia increased		64		Initial mapping			20190724144726	Johan van der Lei	
+145	MEDDRA	10077631	Liver disorder		1		Initial mapping			20190515145033		
+146	MEDDRA	10019846	Hepatorenal syndrome		111	Note that in Snomed hepatorenal failure and hepatorenal syndrome are considered synonyms.	Initial mapping			20190515145033		
+147	MEDDRA	10019676	Hepatic haematoma		63		Initial mapping			20190515145033		
+148	MEDDRA	10004791	Biopsy liver		58		Initial mapping			20190515145033		
+149	MEDDRA	10056528	Neonatal cholestasis		4		Initial mapping			20190515145033		
+150	MEDDRA	10060106	Liver function test normal		1		Initial mapping			20190515145033		
+151	MEDDRA	10036182	Porphyria acute		4		Initial mapping			20190515145033		
+152	MEDDRA	10057586	Post procedural bile leak		111		Initial mapping			20190603180642	Johan van der Lei	
+153	MEDDRA	10017639	Gallbladder perforation		58		Initial mapping			20190515145033		
+154	MEDDRA	10036186	Porphyria non-acute		4	Mapped uphill.	Initial mapping			20190515145033		
+155	MEDDRA	10057847	Biliary sepsis		110		Initial mapping			20190603181459	Johan van der Lei	
+156	MEDDRA	10025523	Malformation biliary		1		Initial mapping			20190724144916	Johan van der Lei	
+157	MEDDRA	10018821	Haemangioma of liver		58		Initial mapping			20190515145033		
+158	MEDDRA	10003827	Autoimmune hepatitis		102		Initial mapping			20190524002432	Johan van der Lei	
+159	MEDDRA	10058989	Portal vein occlusion		4		Initial mapping			20190724143921	Johan van der Lei	
+160	MEDDRA	10019728	Hepatitis alcoholic		57		Initial mapping			20190515145033		
+161	MEDDRA	10049631	Oedema due to hepatic disease		1		No mapping available			20190603182219	Johan van der Lei	
+162	MEDDRA	10057202	Biliary dilatation		102		Initial mapping			20190603182106	Johan van der Lei	
+163	MEDDRA	10056514	Benign biliary neoplasm		3		Initial mapping			20190515145033		
+164	MEDDRA	10057573	Chronic hepatic failure		53		Initial mapping			20190515145033		
+165	MEDDRA	10051344	Bile output abnormal		3		Initial mapping			20190515145033		
+166	MEDDRA	10068923	Portal hypertensive enteropathy		1		No mapping available			20190724125751	Johan van der Lei	
+167	MEDDRA	10061008	Biliary tract disorder		52		Initial mapping			20190515145033		
+168	MEDDRA	10036202	Portal pyaemia		1		Initial mapping			20190515145033		
+169	MEDDRA	10014802	Endoscopic retrograde cholangiopancreatography		96		Initial mapping			20190515145033		
+170	MEDDRA	10005428	Blood cholinesterase		3		Initial mapping			20190515145033		
+171	MEDDRA	10019847	Hepatosplenomegaly		52		Initial mapping			20190515145033		
+172	MEDDRA	10019663	Hepatic failure		1422		Initial mapping			20190515145033		
+173	MEDDRA	10063075	Cryptogenic cirrhosis		9		Initial mapping			20190515145033		
+174	MEDDRA	10008604	Cholangitis		1241		Initial mapping			20190515145033		
+175	MEDDRA	10067281	Portopulmonary hypertension		1		Initial mapping			20190515145033		
+176	MEDDRA	10058117	Ocular icterus		1119		Initial mapping			20190515145033		
+177	MEDDRA	10039610	Schistosomiasis liver		1		Initial mapping			20190515145033		
+178	MEDDRA	10019755	Hepatitis chronic active		9		Initial mapping			20190515145033		
+179	MEDDRA	10019708	Hepatic steatosis		1007		Initial mapping			20190724145245	Johan van der Lei	
+180	MEDDRA	10066955	Single photon emission computerised tomogram		20		Initial mapping			20190515145033		
+181	MEDDRA	10019772	Hepatitis fulminant		9		Initial mapping			20190515145033		
+182	MEDDRA	10069380	Small-for-size liver syndrome		1		No mapping available			20190515145033		
+183	MEDDRA	10004637	Bile duct stone		898	CDM includes a number of addtional diagnosis (e.g., bile duct calculus with acute cholecystitis...). Part of these are ""finding site - bile duct structure"" and ""associated morphology"". As long as we seach on those, we are ok. Otherwise we have to developed an algorithm to add these clinical findings as well. 	Initial mapping			20190724124745	Johan van der Lei	
+184	MEDDRA	10004661	Biliary cirrhosis primary		19	In Snomed, primary biliary cholangitis is a child term under biliary cirrhosis. 	Initial mapping			20190524003842	Johan van der Lei	
+185	MEDDRA	10023136	Jaundice hepatocellular		9		Initial mapping			20190515145033		
+186	MEDDRA	10073069	Hepatic cancer		868		Initial mapping			20190515145033		
+187	MEDDRA	10024712	Liver tenderness		9		Initial mapping			20190515145033		
+188	MEDDRA	10057851	Ultrasound biliary tract abnormal		1		Initial mapping			20190515145033		
+189	MEDDRA	10008609	Cholangitis sclerosing		19		Initial mapping			20190515145033		
+190	MEDDRA	10062000	Hepatobiliary disease		865		Initial mapping			20190524000327	Johan van der Lei	
+191	MEDDRA	10066004	Pneumobilia		9		No mapping available			20190515145033		
+192	MEDDRA	10058947	Haemobilia		19		Initial mapping			20190515145033		
+193	MEDDRA	10027457	Metastases to liver		858		Initial mapping			20190515145033		
+194	MEDDRA	10005369	Blood bilirubin unconjugated		8		Initial mapping			20190515145033		
+195	MEDDRA	10005431	Blood cholinesterase increased		2		Initial mapping			20190515145033		
+196	MEDDRA	10062688	Transaminases abnormal		19		Initial mapping			20190724144329	Johan van der Lei	
+197	MEDDRA	10008635	Cholestasis		781		Initial mapping			20190524000424	Johan van der Lei	
+198	MEDDRA	10019744	Hepatitis C		746		Initial mapping			20190724124232	Johan van der Lei	
+199	MEDDRA	10056328	Hepatic ischaemia		18		Initial mapping			20190524120913	Johan van der Lei	
+200	MEDDRA	10048245	Yellow skin		706		Initial mapping			20190515145033		
+201	MEDDRA	10017635	Gallbladder non-functioning		8		Initial mapping			20190515145033		
+202	MEDDRA	10051012	Gastric varices		17		Initial mapping			20190515145033		
+203	MEDDRA	10067969	Cholestatic liver injury		2		Initial mapping			20190515145033		
+204	MEDDRA	10021083	Hypoproteinaemia		697		Initial mapping			20190515145033		
+205	MEDDRA	10053973	Hepatic cyst ruptured		8		No mapping available			20190515145033		
+206	MEDDRA	10059766	Haemorrhagic ascites		17		Initial mapping			20190515145033		
+207	MEDDRA	10064190	Cholestatic pruritus		2		Initial mapping			20190515145033		
+208	MEDDRA	10019660	Hepatic encephalopathy		678		Initial mapping			20190515145033		
+209	MEDDRA	10019668	Hepatic fibrosis		17		Initial mapping			20190515145033		
+210	MEDDRA	10019842	Hepatomegaly		645		Initial mapping			20190515145033		
+211	MEDDRA	10024275	Leucine aminopeptidase increased		8		Initial mapping			20190724142901	Johan van der Lei	
+212	MEDDRA	10019641	Hepatic cirrhosis		598		Initial mapping			20190515145033		
+213	MEDDRA	10058286	Gallbladder adenocarcinoma		16		Initial mapping			20190603175359	Johan van der Lei	
+214	MEDDRA	10010317	Congenital absence of bile ducts		2		Initial mapping			20190515145033		
+215	MEDDRA	10073071	Hepatocellular carcinoma		583		Initial mapping			20190515145033		
+216	MEDDRA	10017624	Gallbladder cholesterolosis		16		Initial mapping			20190515145033		
+217	MEDDRA	10027761	Mixed hepatocellular cholangiocarcinoma		8		Initial mapping			20190515145033		
+218	MEDDRA	10017687	Gamma-glutamyltransferase		578		Initial mapping			20190515145033		
+219	MEDDRA	10019851	Hepatotoxicity		557		Initial mapping			20190619142644	Johan van der Lei	
+220	MEDDRA	10019713	Hepatic vein thrombosis		16		Initial mapping			20190515145033		
+221	MEDDRA	10034405	Perforation bile duct		8		Initial mapping			20190515145033		
+222	MEDDRA	10010427	Congenital cystic disease of liver		2		Initial mapping			20190515145033		
+223	MEDDRA	10050287	Ammonia		7		Initial mapping			20190515145033		
+224	MEDDRA	10008617	Cholecystitis chronic		538		Initial mapping			20190515145033		
+225	MEDDRA	10066879	Gallbladder cancer metastatic		15		Initial mapping			20190515145033		
+226	MEDDRA	10004269	Benign hepatic neoplasm		7		Initial mapping			20190515145033		
+227	MEDDRA	10056375	Bile duct obstruction		474		Initial mapping			20190724144853	Johan van der Lei	
+228	MEDDRA	10008602	Cholangiolitis		7		Initial mapping			20190515145033		
+229	MEDDRA	10062693	Gallbladder enlargement		15		Initial mapping			20190515145033		
+230	MEDDRA	10071634	Deficiency of bile secretion		2		No mapping available			20190515145033		
+231	MEDDRA	10017631	Gallbladder fistula		15		Initial mapping			20190515145033		
+232	MEDDRA	10017642	Gallbladder injury		7		Initial mapping			20190515145033		
+233	MEDDRA	10004685	Bilirubin conjugated increased		473		Initial mapping			20190724144226	Johan van der Lei	
+234	MEDDRA	10049058	HELLP syndrome		15		Initial mapping			20190515145033		
+235	MEDDRA	10017690	Gamma-glutamyltransferase decreased		2		Initial mapping			20190724145102	Johan van der Lei	
+236	MEDDRA	10019680	Hepatic infarction		7		Initial mapping			20190515145033		
+237	MEDDRA	10019707	Hepatic rupture		15		Initial mapping			20190515145033		
+238	MEDDRA	10054888	Transaminases		457		Initial mapping			20190619142659	Johan van der Lei	
+239	MEDDRA	10003547	Asterixis		14		Initial mapping			20190515145033		
+240	MEDDRA	10019635	Hepatic artery embolism		2		Initial mapping			20190515145033		
+241	MEDDRA	10058991	Hepatic vein occlusion		7		Initial mapping			20190515145033		
+242	MEDDRA	10001551	Alanine aminotransferase increased		63625		Initial mapping			20190515145033		
+243	MEDDRA	10073073	Hepatobiliary cancer		7	Hepatobiliary is not often used in Snomed. Need to discuss on how the map.	Initial mapping			20190515145033		
+244	MEDDRA	10059325	Hepatic cancer stage IV		2	Mapped uphill	Initial mapping			20190515145033		
+245	MEDDRA	10005430	Blood cholinesterase decreased		14		Initial mapping			20190515145033		
+246	MEDDRA	10056302	Hepatic dysplasia		2		No mapping available			20190515145033		
+247	MEDDRA	10008910	Chronic hepatitis B		14		Initial mapping			20190515145033		
+248	MEDDRA	10056523	Hepatobiliary infection		7		Initial mapping			20190724141533	Johan van der Lei	
+249	MEDDRA	10003481	Aspartate aminotransferase increased		52868		Initial mapping			20190515145033		
+250	MEDDRA	10054885	Hepatic haemangioma rupture		2		No mapping available			20190515145033		
+251	MEDDRA	10020942	Hypoalbuminaemia		22891		Initial mapping			20190515145033		
+252	MEDDRA	10029530	Non-alcoholic fatty liver		7		Initial mapping			20190515145033		
+253	MEDDRA	10020732	Hyperplastic cholecystopathy		14		Initial mapping			20190724125744	Johan van der Lei	
+254	MEDDRA	10054125	Perihepatic discomfort		7		Initial mapping			20190515145033		
+255	MEDDRA	10065217	Hepatic infection fungal		2		No mapping available			20190515145033		
+256	MEDDRA	10005364	Blood bilirubin increased		16405		Initial mapping			20190515145033		
+257	MEDDRA	10066424	Sphincter of Oddi dysfunction		14		Initial mapping			20190515145033		
+258	MEDDRA	10020578	Hyperbilirubinaemia		10148		Initial mapping			20190515145033		
+259	MEDDRA	10059446	Gallbladder necrosis		13		Initial mapping			20190515145033		
+260	MEDDRA	10066244	Hepatic sequestration		2		Initial mapping			20190515145033		
+261	MEDDRA	10065051	Acute hepatitis C		35		Initial mapping			20190515145033		
+262	MEDDRA	10050842	Liver carcinoma ruptured		13		No mapping available			20190515145033		
+263	MEDDRA	10010075	Coma hepatic		35		Initial mapping			20190515145033		
+264	MEDDRA	10003476	Aspartate aminotransferase		9989		Initial mapping			20190515145033		
+265	MEDDRA	10052384	Biliary cyst		12		Initial mapping			20190515145033		
+266	MEDDRA	10051590	Hepatosplenic candidiasis		2		Initial mapping			20190603180517	Johan van der Lei	
+267	MEDDRA	10058477	Blood bilirubin abnormal		32		Initial mapping			20190515145033		
+268	MEDDRA	10001546	Alanine aminotransferase		9664		Initial mapping			20190515145033		
+269	MEDDRA	10071502	Intestinal varices		2		No mapping available			20190515145033		
+270	MEDDRA	10049055	Cholestasis of pregnancy		12		Initial mapping			20190515145033		
+271	MEDDRA	10008909	Chronic hepatitis		32		Initial mapping			20190515145033		
+272	MEDDRA	10066758	Mixed liver injury		2		No mapping available			20190515145033		
+273	MEDDRA	10059193	Acute hepatitis B		31		Initial mapping			20190515145033		
+274	MEDDRA	10017693	Gamma-glutamyltransferase increased		9468		Initial mapping			20190515145033		
+275	MEDDRA	10074726	Portal fibrosis		2		No mapping available			20190515145033		
+276	MEDDRA	10008629	Cholelithiasis		6493		Initial mapping			20190523234110	Johan van der Lei	
+277	MEDDRA	10052383	Dilatation intrahepatic duct acquired		12		Initial mapping			20190603181653	Johan van der Lei	
+278	MEDDRA	10036204	Portal shunt		2	Discussion: is this what is meant?	Initial mapping			20190724125402	Johan van der Lei	
+279	MEDDRA	10008630	Cholelithiasis obstructive		31		Initial mapping			20190524003536	Johan van der Lei	
+280	MEDDRA	10003445	Ascites		6155		Initial mapping			20190523235657	Johan van der Lei	
+281	MEDDRA	10005362	Blood bilirubin		4231		Initial mapping			20190515145033		
+282	MEDDRA	10011830	Cytomegalovirus hepatitis		31		Initial mapping			20190515145033		
+283	MEDDRA	10008612	Cholecystitis		4045		Initial mapping			20190523234312	Johan van der Lei	
+284	MEDDRA	10036205	Portal vein phlebitis		2		Initial mapping			20190515145033		
+285	MEDDRA	10017688	Gamma-glutamyltransferase abnormal		12		Initial mapping			20190515145033		
+286	MEDDRA	10076331	Steatohepatitis		2		Initial mapping			20190515145033		
+287	MEDDRA	10073070	Hepatic cancer recurrent		30		Initial mapping			20190603180256	Johan van der Lei	
+288	MEDDRA	10019670	Hepatic function abnormal		3353		Initial mapping			20190515145033		
+289	MEDDRA	10067718	Bilirubin conjugated abnormal		11		Initial mapping			20190724142346	Johan van der Lei	
+290	MEDDRA	10056956	Subacute hepatic failure		2		Initial mapping			20190515145033		
+291	MEDDRA	10023126	Jaundice		2810		Initial mapping			20190515145033		
+292	MEDDRA	10018267	Gilbert's syndrome		11		Initial mapping			20190515145033		
+293	MEDDRA	10054889	Transaminases increased		2745		Initial mapping			20190619142532	Johan van der Lei	
+294	MEDDRA	10025697	Malignant neoplasm of ampulla of Vater		30		Initial mapping			20190524003612	Johan van der Lei	
+295	MEDDRA	10019629	Hepatic adenoma		11		Initial mapping			20190515145033		
+296	MEDDRA	10000746	Acute fatty liver of pregnancy		1		Initial mapping			20190515145033		
+297	MEDDRA	10008614	Cholecystitis acute		2723		Initial mapping			20190515145033		
+298	MEDDRA	10051733	Portal vein stenosis		11	Discussion: when is exactly the difference between obstruction and occlusion	Initial mapping			20190515145033		
+299	MEDDRA	10068884	Cholelithiasis migration		3		Initial mapping			20190603180724	Johan van der Lei	
+300	MEDDRA	10003477	Aspartate aminotransferase abnormal		29		Initial mapping			20190515145033		
+301	MEDDRA	10004684	Bilirubin conjugated		10		Initial mapping			20190515145033		
+302	MEDDRA	10024690	Liver function test abnormal		2667		Initial mapping			20190515145033		
+303	MEDDRA	10063741	Hepatic amoebiasis		3		Initial mapping			20190515145033		
+304	MEDDRA	10051705	Hepatic cyst infection		29		Initial mapping			20190515145033		
+305	MEDDRA	10019637	Hepatic atrophy		3		Initial mapping			20190515145033		
+306	MEDDRA	10056668	Emphysematous cholecystitis		10		Initial mapping			20190515145033		
+307	MEDDRA	10019692	Hepatic necrosis		28		Initial mapping			20190515145033		
+308	MEDDRA	10060795	Hepatic enzyme increased		2594		Initial mapping			20190724143257	Johan van der Lei	
+309	MEDDRA	10067365	Hepatic hydrothorax		3		No mapping available			20190515145033		
+310	MEDDRA	10019717	Hepatitis		2029		Initial mapping			20190515145033		
+311	MEDDRA	10017649	Gallstone ileus		10		Initial mapping			20190515145033		
+312	MEDDRA	10049869	Blood bilirubin decreased		27		Initial mapping			20190515145033		
+313	MEDDRA	10068237	Hypertransaminasaemia		1644		Initial mapping			20190619142256	Johan van der Lei	
+314	MEDDRA	10018872	Haemochromatosis		27		Initial mapping			20190515145033		
+315	MEDDRA	10024670	Liver disorder		1597		Initial mapping			20190515145033		
+316	MEDDRA	10064676	Graft versus host disease in liver		10		Initial mapping			20190515145033		
+317	MEDDRA	10065215	Hepatic infection bacterial		3		Initial mapping			20190515145033		
+318	MEDDRA	10051734	Hepatic vein stenosis		3		Initial mapping			20190515145033		
+319	MEDDRA	10018704	Granulomatous liver disease		10		Initial mapping			20190515145033		
+320	MEDDRA	10003479	Aspartate aminotransferase decreased		25		Initial mapping			20190515145033		
+321	MEDDRA	10019794	Hepatitis syphilitic		3		Initial mapping			20190724141442	Johan van der Lei	
+322	MEDDRA	10067554	Perihepatic abscess		25	Discussion: What exactly is a perihepatic abscess.	Initial mapping			20190515145033		
+323	MEDDRA	10051081	Nodular regenerative hyperplasia		10	Discussion: note that this is (i believe) specific for liver.	Initial mapping			20190724125423	Johan van der Lei	
+324	MEDDRA	10061203	Hepatobiliary neoplasm		3		Initial mapping			20190724144417	Johan van der Lei	
+325	MEDDRA	10004668	Biliary neoplasm		24		Initial mapping			20190515145033		
+326	MEDDRA	10067389	Herpes simplex hepatitis		3		Initial mapping			20190724144626	Johan van der Lei	
+327	MEDDRA	10050792	Urine bilirubin increased		10		Initial mapping			20190515145033		
+328	MEDDRA	10057229	Post cholecystectomy syndrome		24		Initial mapping			20190515145033		
+329	MEDDRA	10067737	Lupus hepatitis		3		Initial mapping			20190515145033		
+330	MEDDRA	10058441	Biliary ischaemia		23	How does this relate to liver ischeamia? Not clear what is meant here.	No mapping available			20190524121011	Johan van der Lei	
+331	MEDDRA	10030897	Opisthorchiasis		3		Initial mapping			20190515145033		
+332	MEDDRA	10004585	Bile duct adenocarcinoma		9	In Snomed, Cholangiocarcinoma is a synonym of bile duct adenocarcinoma.	Initial mapping			20190515145033		
+333	MEDDRA	10052246	Gallbladder abscess		22		Initial mapping			20190515145033		
+334	MEDDRA	10068821	Periportal oedema		3		No mapping available			20190515145033		
+335	MEDDRA	10055111	Biliary cancer metastatic		9		Initial mapping			20190724125739	Johan van der Lei	
+336	MEDDRA	10004659	Biliary cirrhosis		9		Initial mapping			20190515145033		
+337	MEDDRA	10001552	Alanine aminotransferase normal		21		Initial mapping			20190515145033		
+338	MEDDRA	10045428	Ultrasound liver abnormal		3	Mapped uphill: ultrasound mapped to imaging.	Initial mapping			20190603180129	Johan van der Lei	
+339	MEDDRA	10054936	Cardiac cirrhosis		9		Initial mapping			20190515145033		
+340	MEDDRA	10008912	Chronic hepatitis C		20		Initial mapping			20190515145033		
+341	MEDDRA	10059506	Urobilinogen urine		3		Initial mapping			20190515145033		
+342	MEDDRA	10072284	Varicose veins of abdominal wall		3		No mapping available			20190515145033		
+343	MEDDRA	10053870	Alagille syndrome		2		Initial mapping			20190515145033		
+344	MEDDRA	10004596	Bile duct cancer recurrent		2		Initial mapping			20190515145033		
+345	MEDDRA	10048798	Biliary adenoma		2		No mapping available			20190515145033		
+346	MEDDRA	10071069	Biliary cast syndrome		2		No mapping available			20190515145033		
+347	MEDDRA	10004664	Biliary fibrosis		2		Initial mapping			20190515145033		
+348	MEDDRA	10065203	Biliary tract infection fungal		2		Initial mapping			20190515145033		

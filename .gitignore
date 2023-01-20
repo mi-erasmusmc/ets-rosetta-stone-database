@@ -1,0 +1,10 @@
+.idea
+/data/vocabulary/*.csv
+/data/meddra/*.asc
+/data/umls/MRCONSO.RRF
+/target
+.DS_Store
+*/.DS_Store
+/data/vocabulary/VOCABULARY.csv
+Makefile
+.dcignore

@@ -1,0 +1,415 @@
+SourceCodeId	SourceCodeSystem	SourceCode	SourceName	GroupId	TargetConceptId	TargetConceptCode	TargetConceptName	TargetDomain	TargetClass	StandardCode
+1	MEDDRA	10059118	Biloma	1	4340957	235932003	Bile duct leakage	Condition	Clinical Finding	S
+2	MEDDRA	10019731	Hepatitis B	1	4281232	66071002	Type B viral hepatitis	Condition	Clinical Finding	S
+3	MEDDRA	10004663	Biliary colic	1	4291807	37389005	Biliary colic	Condition	Clinical Finding	S
+4	MEDDRA	10075445	Cholangitis infective	1	4231827	405590003	Infective cholangitis	Condition	Clinical Finding	S
+5	MEDDRA	10056885	Adenoviral hepatitis	1	4059294	197344005	Hepatitis caused by adenovirus	Condition	Clinical Finding	S
+6	MEDDRA	10068924	Anorectal varices	1	4090008	281088000	Anorectal structure	Spec Anatomic Site	Body Structure	S
+6	MEDDRA	10068924	Anorectal varices	1	312349	128060009	Venous varices	Condition	Clinical Finding	S
+7	MEDDRA	10071198	Allergic hepatitis	1	4139051	426364002	Allergic hepatitis	Condition	Clinical Finding	S
+8	MEDDRA	10058941	Bile duct necrosis	1	4154158	28273000	Bile duct structure	Spec Anatomic Site	Body Structure	S
+8	MEDDRA	10058941	Bile duct necrosis	1	4280654	6574001	Necrosis	Observation	Morph Abnormality	S
+9	MEDDRA	10023129	Jaundice cholestatic	1	4185719	44018007	Cholestatic jaundice syndrome	Condition	Clinical Finding	S
+10	MEDDRA	10057572	Gastric varices haemorrhage	1	4087310	24807004	Bleeding gastric varices	Condition	Clinical Finding	S
+11	MEDDRA	10006537	Budd-Chiari syndrome	1	196715	82385007	Budd-Chiari syndrome	Condition	Clinical Finding	S
+12	MEDDRA	10057110	Hepatic mass	1	4101227	300332007	Liver mass	Condition	Clinical Finding	S
+13	MEDDRA	10051341	Bile duct stenosis	1	4182588	43030007	Stenosis of bile duct	Condition	Clinical Finding	S
+14	MEDDRA	10001806	Alpha-1 anti-trypsin deficiency	1	192275	30188007	Alpha-1-antitrypsin deficiency	Condition	Clinical Finding	S
+15	MEDDRA	10061760	Cholangitis chronic	1	4215650	71912000	Chronic cholangitis	Condition	Clinical Finding	S
+16	MEDDRA	10019705	Hepatic pain	1	4009394	102626001	Liver pain	Condition	Clinical Finding	S
+17	MEDDRA	10070479	Urobilinogen urine increased	1	4088040	24390000	Increased urobilinogen level	Condition	Clinical Finding	S
+18	MEDDRA	10001942	Ammonia abnormal	1	4135493	263654008	Abnormal	Spec Disease Status	Qualifier Value	S
+18	MEDDRA	10001942	Ammonia abnormal	1	4245982	59960001	Ammonia measurement	Measurement	Procedure	S
+20	MEDDRA	10072268	Drug-induced liver injury	1	4144765	427399008	Drug-induced disorder of liver	Condition	Clinical Finding	S
+21	MEDDRA	10051068	Gallbladder empyema	1	4247767	73125001	Empyema of gallbladder	Condition	Clinical Finding	S
+22	MEDDRA	10008625	Choledochal cyst	1	4260364	440471007	Choledochal cyst	Condition	Clinical Finding	S
+23	MEDDRA	10030210	Oesophageal varices haemorrhage	1	28779	17709002	Bleeding esophageal varices	Condition	Clinical Finding	S
+24	MEDDRA	10016262	Fatty liver alcoholic	1	193256	50325005	Alcoholic fatty liver	Condition	Clinical Finding	S
+25	MEDDRA	10060851	Hyperphosphatasaemia	1	4065502	20165001	Hyperphosphatemia	Condition	Clinical Finding	S
+26	MEDDRA	10064558	Total bile acids increased	1	4124458	260399008	Raised	Meas Value	Qualifier Value	S
+26	MEDDRA	10064558	Total bile acids increased	1	4199294	5264008	Total bile acids measurement	Measurement	Procedure	S
+26	MEDDRA	10064558	Total bile acids increased	2	4146067	35105006	Increased	Meas Value	Qualifier Value	S
+26	MEDDRA	10064558	Total bile acids increased	2	4199294	5264008	Total bile acids measurement	Measurement	Procedure	S
+28	MEDDRA	10024652	Liver abscess	1	201901	27916005	Abscess of liver	Condition	Clinical Finding	S
+29	MEDDRA	10052285	Focal nodular hyperplasia	1	4047301	22995004	Focal nodular hyperplasia	Observation	Morph Abnormality	S
+30	MEDDRA	10023138	Jaundice neonatal	1	435656	387712008	Neonatal jaundice	Condition	Clinical Finding	S
+31	MEDDRA	10003971	Bacillary angiomatosis	1	4237587	58213005	Bacillary angiomatosis	Condition	Clinical Finding	S
+32	MEDDRA	10001549	Alanine aminotransferase decreased	1	4095055	250637003	ALT - blood measurement	Measurement	Procedure	S
+32	MEDDRA	10001549	Alanine aminotransferase decreased	1	4083207	281300000	Below reference range	Meas Value	Qualifier Value	S
+33	MEDDRA	10019634	Hepatic artery aneurysm	1	4093607	25878000	Aneurysm of hepatic artery	Condition	Clinical Finding	S
+34	MEDDRA	10020580	Hyperbilirubinaemia neonatal	1	4105871	281610001	Neonatal hyperbilirubinemia	Condition	Clinical Finding	S
+35	MEDDRA	10019754	Hepatitis cholestatic	1	4318541	95556007	Cholestatic hepatitis	Condition	Clinical Finding	S
+37	MEDDRA	10060793	Hepatic enzyme increased	1	45769139	707724006	Elevated liver enzymes level	Condition	Clinical Finding	S
+38	MEDDRA	10056972	Hydrocholecystis	1	195307	47312008	Hydrops of gallbladder	Condition	Clinical Finding	S
+39	MEDDRA	10060105	Liver function test	2	4158182	271552009	Liver function tests - general	Measurement	Procedure	S
+40	MEDDRA	10019780	Hepatitis infectious	1	4223947	40468003	Viral hepatitis, type A	Condition	Clinical Finding	S
+41	MEDDRA	10058528	Bile output increased	1	4149338	35184007	Bile secretion	Observation	Observable Entity	S
+41	MEDDRA	10058528	Bile output increased	1	4146067	35105006	Increased	Meas Value	Qualifier Value	S
+42	MEDDRA	10009208	Cirrhosis alcoholic	1	196463	420054005	Alcoholic cirrhosis	Condition	Clinical Finding	S
+44	MEDDRA	10068356	Biliary polyp	1	4146820	34707002	Biliary tract structure	Spec Anatomic Site	Body Structure	S
+44	MEDDRA	10068356	Biliary polyp	1	4187628	41329004	Polyp	Observation	Morph Abnormality	S
+45	MEDDRA	10005370	Blood bilirubin unconjugated increased	1	4018181	104553007	Bilirubin, non-glucuronidated measurement	Measurement	Procedure	S
+45	MEDDRA	10005370	Blood bilirubin unconjugated increased	1	4146067	35105006	Increased	Meas Value	Qualifier Value	S
+46	MEDDRA	10051199	Hepatic artery stenosis	1	4226129	405564001	Hepatic artery stenosis	Condition	Clinical Finding	S
+47	MEDDRA	10019781	Hepatitis infectious mononucleosis	1	4119142	302919001	Epstein-Barr virus hepatitis	Condition	Clinical Finding	S
+48	MEDDRA	10004792	Biopsy liver abnormal	1	4314001	86259008	Biopsy of liver	Procedure	Procedure	S
+48	MEDDRA	10004792	Biopsy liver abnormal	1	4013824	165325009	Biopsy result abnormal	Condition	Clinical Finding	S
+49	MEDDRA	10062631	Cholecystitis infective	1	192956	76581006	Cholecystitis	Condition	Clinical Finding	S
+50	MEDDRA	10048834	Polycystic liver disease	1	197654	72925005	Congenital cystic disease of liver	Condition	Clinical Finding	S
+51	MEDDRA	10005367	Blood bilirubin normal	1	4043077	166611006	Serum bilirubin normal	Condition	Clinical Finding	S
+52	MEDDRA	10072160	Chronic graft versus host disease in liver	1	434314	402356004	Chronic graft-versus-host disease	Condition	Clinical Finding	S
+52	MEDDRA	10072160	Chronic graft versus host disease in liver	1	4009105	10200004	Liver structure	Spec Anatomic Site	Body Structure	S
+54	MEDDRA	10036206	Portal vein thrombosis	1	199837	17920008	Portal vein thrombosis	Condition	Clinical Finding	S
+55	MEDDRA	10050899	Porcelain gallbladder	1	4006782	110995008	Intramural calcification of gallbladder	Condition	Clinical Finding	S
+56	MEDDRA	10058120	Tuberculosis liver	1	4091181	186273003	Tuberculosis of liver	Condition	Clinical Finding	S
+57	MEDDRA	10004593	Bile duct cancer	1	4321680	70179006	Cholangiocarcinoma	Observation	Morph Abnormality	S
+57	MEDDRA	10004593	Bile duct cancer	2	4181345	363415003	Malignant tumor of biliary tract	Condition	Clinical Finding	S
+57	MEDDRA	10004593	Bile duct cancer	3	40486896	446189008	Primary malignant neoplasm of extrahepatic bile duct	Condition	Clinical Finding	S
+58	MEDDRA	10053219	Non-alcoholic steatohepatitis	1	40484532	442685003	Nonalcoholic steatohepatitis	Condition	Clinical Finding	S
+59	MEDDRA	10053629	Cholangiectasis acquired	1	4334243	232025004	Acquired peripheral telangiectasia	Condition	Clinical Finding	S
+60	MEDDRA	10009344	Clonorchiasis	1	194280	11938002	Clonorchiasis	Condition	Clinical Finding	S
+61	MEDDRA	10019837	Hepatocellular injury	1	4352876	243978007	Liver damage	Condition	Clinical Finding	S
+62	MEDDRA	10068925	Anorectal varices haemorrhage	1	4090008	281088000	Anorectal structure	Spec Anatomic Site	Body Structure	S
+62	MEDDRA	10068925	Anorectal varices haemorrhage	1	4179955	50960005	Hemorrhage	Observation	Morph Abnormality	S
+62	MEDDRA	10068925	Anorectal varices haemorrhage	2	4090008	281088000	Anorectal structure	Spec Anatomic Site	Body Structure	S
+62	MEDDRA	10068925	Anorectal varices haemorrhage	2	312349	128060009	Venous varices	Condition	Clinical Finding	S
+62	MEDDRA	10068925	Anorectal varices haemorrhage	3	4026112	12063002	Rectal hemorrhage	Condition	Clinical Finding	S
+63	MEDDRA	10008605	Cholangitis acute	1	4267297	6215006	Acute cholangitis	Condition	Clinical Finding	S
+65	MEDDRA	10066263	Acute graft versus host disease in liver	1	439416	402355000	Acute graft-versus-host disease	Condition	Clinical Finding	S
+65	MEDDRA	10066263	Acute graft versus host disease in liver	1	4009105	10200004	Liver structure	Spec Anatomic Site	Body Structure	S
+66	MEDDRA	10056533	Congenital hepatic fibrosis	1	4194229	79607001	Congenital hepatic fibrosis	Condition	Clinical Finding	S
+67	MEDDRA	10019727	Hepatitis acute	1	4243475	37871000	Acute hepatitis	Condition	Clinical Finding	S
+68	MEDDRA	10004665	Biliary fistula	1	194407	53206008	Fistula of bile duct	Condition	Clinical Finding	S
+69	MEDDRA	10056091	Varices oesophageal	1	24966	28670008	Esophageal varices	Condition	Clinical Finding	S
+70	MEDDRA	10068289	Cystic fibrosis hepatic disease	1	4141669	427022004	Liver disease due to cystic fibrosis	Condition	Clinical Finding	S
+71	MEDDRA	10065202	Biliary tract infection bacterial	1	432545	87628006	Bacterial infectious disease	Condition	Clinical Finding	S
+71	MEDDRA	10065202	Biliary tract infection bacterial	1	4146820	34707002	Biliary tract structure	Spec Anatomic Site	Body Structure	S
+72	MEDDRA	10049704	Gallbladder polyp	1	4055351	197433003	Polyp of gallbladder	Condition	Clinical Finding	S
+74	MEDDRA	10073072	Gallbladder neoplasm	1	4130520	126854002	Neoplasm of gallbladder	Condition	Clinical Finding	S
+75	MEDDRA	10010186	Complications of transplanted liver	1	200616	33167004	Complication of transplanted liver	Condition	Clinical Finding	S
+76	MEDDRA	10047216	Venoocclusive liver disease	1	4277276	65617004	Veno-occlusive disease of the liver	Condition	Clinical Finding	S
+77	MEDDRA	10051010	Duodenal varices	1	4119308	303086007	Duodenal varices	Condition	Clinical Finding	S
+78	MEDDRA	10017637	Gallbladder oedema	1	195307	47312008	Hydrops of gallbladder	Condition	Clinical Finding	S
+79	MEDDRA	10052554	Foetor hepaticus	1	4280802	65870008	Fetor hepaticus	Condition	Clinical Finding	S
+80	MEDDRA	10067979	Traumatic liver injury	1	4009105	10200004	Liver structure	Spec Anatomic Site	Body Structure	S
+80	MEDDRA	10067979	Traumatic liver injury	1	440921	417746004	Traumatic injury	Condition	Clinical Finding	S
+81	MEDDRA	10017626	Gallbladder disorder	1	192353	39621005	Disorder of gallbladder	Condition	Clinical Finding	S
+83	MEDDRA	10067125	Liver injury	1	193355	39400004	Injury of liver	Condition	Clinical Finding	S
+84	MEDDRA	10076240	Gallbladder adenoma	1	4138073	32048006	Adenoma	Observation	Morph Abnormality	S
+84	MEDDRA	10076240	Gallbladder adenoma	1	4151384	28231008	Gallbladder structure	Spec Anatomic Site	Body Structure	S
+85	MEDDRA	10019636	Hepatic artery thrombosis	1	4223098	83940008	Hepatic artery thrombosis	Condition	Clinical Finding	S
+86	MEDDRA	10051991	Hepatic artery occlusion	1	4328345	76015000	Hepatic artery	Spec Anatomic Site	Body Structure	S
+86	MEDDRA	10051991	Hepatic artery occlusion	1	4162038	2929001	Occlusion of artery	Condition	Clinical Finding	S
+87	MEDDRA	10061695	Biliary tract infection	1	4146820	34707002	Biliary tract structure	Spec Anatomic Site	Body Structure	S
+87	MEDDRA	10061695	Biliary tract infection	1	432250	40733004	Disorder due to infection	Condition	Clinical Finding	S
+88	MEDDRA	10073067	Gallbladder adenosquamous carcinoma	1	4298029	403902008	Adenosquamous cell carcinoma	Condition	Clinical Finding	S
+88	MEDDRA	10073067	Gallbladder adenosquamous carcinoma	1	4151384	28231008	Gallbladder structure	Spec Anatomic Site	Body Structure	S
+89	MEDDRA	10001627	Alcoholic liver disease	1	201612	41309000	Alcoholic liver damage	Condition	Clinical Finding	S
+90	MEDDRA	10052274	Hepatopulmonary syndrome	1	4159144	371067004	Hepatopulmonary syndrome	Condition	Clinical Finding	S
+91	MEDDRA	10019795	Hepatitis toxic	1	4055223	197352008	Toxic hepatitis	Condition	Clinical Finding	S
+92	MEDDRA	10019845	Hepatorenal failure	1	196455	51292008	Hepatorenal syndrome	Condition	Clinical Finding	S
+93	MEDDRA	10058281	Gallbladder cancer stage II	1	4181327	363353009	Malignant tumor of gallbladder	Condition	Clinical Finding	S
+94	MEDDRA	10023130	Jaundice extrahepatic obstructive	1	4242900	59848001	Obstructive hyperbilirubinemia	Condition	Clinical Finding	S
+95	MEDDRA	10057987	Gallbladder mucocoele	1	4302021	78793006	Mucocele of gallbladder	Condition	Clinical Finding	S
+96	MEDDRA	10077692	Liver function test increased	1	4158182	271552009	Liver function tests - general	Measurement	Procedure	S
+96	MEDDRA	10077692	Liver function test increased	1	4124458	260399008	Raised	Meas Value	Qualifier Value	S
+98	MEDDRA	10050897	Portal hypertensive gastropathy	1	4116347	303082009	Portal hypertensive gastropathy	Condition	Clinical Finding	S
+99	MEDDRA	10019719	Hepatitis A	1	4223947	40468003	Viral hepatitis, type A	Condition	Clinical Finding	S
+100	MEDDRA	10061947	Liver scan abnormal	1	40484531	442684004	Imaging of liver abnormal	Condition	Clinical Finding	S
+101	MEDDRA	10036200	Portal hypertension	1	192680	34742003	Portal hypertension	Condition	Clinical Finding	S
+103	MEDDRA	10019695	Hepatic neoplasm	1	4130518	126851005	Neoplasm of liver	Condition	Clinical Finding	S
+104	MEDDRA	10062685	Hepatic enzyme abnormal	1	4042563	166643006	Liver enzymes abnormal	Condition	Clinical Finding	S
+106	MEDDRA	10019646	Hepatic cyst	1	4225905	85057007	Liver cyst	Condition	Clinical Finding	S
+107	MEDDRA	10062195	Metastases to biliary tract	1	4311638	94185003	Secondary malignant neoplasm of biliary tract	Condition	Clinical Finding	S
+108	MEDDRA	10056529	Biliary dyskinesia	1	4055350	197432008	Biliary dyskinesia	Condition	Clinical Finding	S
+109	MEDDRA	10049653	Hepatic candidiasis	1	433968	78048006	Candidiasis	Condition	Clinical Finding	S
+109	MEDDRA	10049653	Hepatic candidiasis	1	4009105	10200004	Liver structure	Spec Anatomic Site	Body Structure	S
+110	MEDDRA	10019677	Hepatic haemorrhage	1	4043254	16763008	Hemorrhage of liver	Condition	Clinical Finding	S
+111	MEDDRA	10055110	Hepatic cancer metastatic	1	198700	94381002	Secondary malignant neoplasm of liver	Condition	Clinical Finding	S
+112	MEDDRA	10073851	Tumour of ampulla of Vater	1	4130998	126858004	Neoplasm of ampulla of Vater	Condition	Clinical Finding	S
+113	MEDDRA	10023025	Ischaemic hepatitis	1	4340384	235877000	Ischemic hepatitis	Condition	Clinical Finding	S
+114	MEDDRA	10060794	Hepatic enzyme decreased	1	4053347	1250004	Decreased	Meas Value	Qualifier Value	S
+114	MEDDRA	10060794	Hepatic enzyme decreased	1	4155237	269856004	Measurement of liver enzyme	Measurement	Procedure	S
+115	MEDDRA	10000804	Acute hepatic failure	1	4026032	197270009	Acute hepatic failure	Condition	Clinical Finding	S
+115	MEDDRA	10000804	Acute hepatic failure	2	4340389	235884008	Fulminant hepatic failure	Condition	Clinical Finding	S
+116	MEDDRA	10017638	Gallbladder pain	1	4010981	102628000	Gallbladder pain	Condition	Clinical Finding	S
+117	MEDDRA	10067376	Ampulla of Vater stenosis	1	4072277	176639008	Acquired stenosis	Observation	Morph Abnormality	S
+117	MEDDRA	10067376	Ampulla of Vater stenosis	1	4283974	67109009	Structure of ampulla of Vater	Spec Anatomic Site	Body Structure	S
+119	MEDDRA	10017636	Gallbladder obstruction	1	192363	75726005	Obstruction of gallbladder	Condition	Clinical Finding	S
+119	MEDDRA	10017636	Gallbladder obstruction	2	4058818	197416005	Occlusion of gallbladder	Condition	Clinical Finding	S
+121	MEDDRA	10053113	Bilirubin urine	1	4230546	359992002	Bilirubin measurement, urine	Measurement	Procedure	S
+122	MEDDRA	10024715	Liver transplant rejection	1	4341657	235911006	Liver transplant rejection	Condition	Clinical Finding	S
+123	MEDDRA	10056522	Infection	1	432250	40733004	Disorder due to infection	Condition	Clinical Finding	S
+124	MEDDRA	10008598	Cholangiogram	1	4151838	28367004	Cholangiogram	Procedure	Procedure	S
+125	MEDDRA	10051659	Hepatic siderosis	1	4308602	83761007	Hepatic hemosiderosis	Condition	Clinical Finding	S
+126	MEDDRA	10017614	Gallbladder cancer	1	4181327	363353009	Malignant tumor of gallbladder	Condition	Clinical Finding	S
+127	MEDDRA	10061998	Hepatic lesion	1	4104000	300331000	Lesion of liver	Condition	Clinical Finding	S
+128	MEDDRA	10067388	Hepatic angiosarcoma	1	4003021	109844006	Angiosarcoma of liver	Condition	Clinical Finding	S
+129	MEDDRA	10019768	Hepatitis E	1	45769824	7111000119109	Viral hepatitis E	Condition	Clinical Finding	S
+130	MEDDRA	10074494	Hepatic vascular thrombosis	1	4223098	83940008	Hepatic artery thrombosis	Condition	Clinical Finding	S
+130	MEDDRA	10074494	Hepatic vascular thrombosis	2	4301208	38739001	Hepatic vein thrombosis	Condition	Clinical Finding	S
+131	MEDDRA	10019773	Hepatitis G	1	4287644	397575003	Viral hepatitis, type G	Condition	Clinical Finding	S
+132	MEDDRA	10019659	Hepatic echinococciasis	1	195749	26103000	Echinococcosis of liver	Condition	Clinical Finding	S
+133	MEDDRA	10062883	Biliary anastomosis complication	1	4141110	3360004	Anastomosis of bile ducts	Procedure	Procedure	S
+133	MEDDRA	10062883	Biliary anastomosis complication	1	4137797	263718001	Complication	Observation	Attribute	S
+134	MEDDRA	10019645	Hepatic congestion	1	4296301	76281005	Hepatic congestion	Condition	Clinical Finding	S
+135	MEDDRA	10019786	Hepatitis non-A non-B	1	4089873	186634008	Hepatitis non-A non-B	Condition	Clinical Finding	S
+137	MEDDRA	10008593	Cholangiocarcinoma	1	4321680	70179006	Cholangiocarcinoma	Observation	Morph Abnormality	S
+137	MEDDRA	10008593	Cholangiocarcinoma	2	4208660	312104005	Cholangiocarcinoma of biliary tract	Condition	Clinical Finding	S
+137	MEDDRA	10008593	Cholangiocarcinoma	3	40490929	447109003	Primary malignant neoplasm of intrahepatic bile duct	Condition	Clinical Finding	S
+138	MEDDRA	10020575	Hyperammonaemia	1	4246681	9360008	Hyperammonemia	Condition	Clinical Finding	S
+139	MEDDRA	10067266	Liver contusion	1	4096646	262799001	Contusion of liver	Condition	Clinical Finding	S
+140	MEDDRA	10001547	Alanine aminotransferase abnormal	1	4041531	166646003	Alanine aminotransferase (ALT) (serum glutamic-pyruvic transaminase) (SGPT) level abnormal	Condition	Clinical Finding	S
+141	MEDDRA	10019799	Hepatitis viral	1	4291005	3738000	Viral hepatitis	Condition	Clinical Finding	S
+142	MEDDRA	10019819	Hepato-lenticular degeneration	1	4229262	88518009	Wilson's disease	Condition	Clinical Finding	S
+143	MEDDRA	10051667	Metastases to gallbladder	1	4313079	94312000	Secondary malignant neoplasm of gallbladder	Condition	Clinical Finding	S
+144	MEDDRA	10001946	Ammonia increased	1	4245982	59960001	Ammonia measurement	Measurement	Procedure	S
+144	MEDDRA	10001946	Ammonia increased	1	4146067	35105006	Increased	Meas Value	Qualifier Value	S
+145	MEDDRA	10077631	Liver disorder	1	194984	235856003	Disease of liver	Condition	Clinical Finding	S
+146	MEDDRA	10019846	Hepatorenal syndrome	1	196455	51292008	Hepatorenal syndrome	Condition	Clinical Finding	S
+147	MEDDRA	10019676	Hepatic haematoma	1	4096644	262796008	Liver hematoma	Condition	Clinical Finding	S
+148	MEDDRA	10004791	Biopsy liver	1	4314001	86259008	Biopsy of liver	Procedure	Procedure	S
+149	MEDDRA	10056528	Neonatal cholestasis	1	4203366	433237003	Cholestasis in newborn	Condition	Clinical Finding	S
+150	MEDDRA	10060106	Liver function test normal	1	4043075	166602006	Liver function tests normal	Condition	Clinical Finding	S
+151	MEDDRA	10036182	Porphyria acute	1	4120604	234422006	Acute intermittent porphyria	Condition	Clinical Finding	S
+152	MEDDRA	10057586	Post procedural bile leak	1	4340400	235931005	Leakage of bile	Condition	Clinical Finding	S
+152	MEDDRA	10057586	Post procedural bile leak	1	444239	128926000	Postprocedural state finding	Condition	Clinical Finding	S
+153	MEDDRA	10017639	Gallbladder perforation	1	196469	25345001	Perforation of gallbladder	Condition	Clinical Finding	S
+154	MEDDRA	10036186	Porphyria non-acute	1	4305376	418470004	Porphyria	Condition	Clinical Finding	S
+155	MEDDRA	10057847	Biliary sepsis	1	4146820	34707002	Biliary tract structure	Spec Anatomic Site	Body Structure	S
+155	MEDDRA	10057847	Biliary sepsis	1	132797	91302008	Sepsis	Condition	Clinical Finding	S
+156	MEDDRA	10025523	Malformation biliary	1	4109792	253804002	Biliary anomalies	Condition	Clinical Finding	S
+156	MEDDRA	10025523	Malformation biliary	2	4187364	4711003	Congenital anomaly of bile ducts	Condition	Clinical Finding	S
+157	MEDDRA	10018821	Haemangioma of liver	1	4247079	93469006	Hemangioma of liver	Condition	Clinical Finding	S
+158	MEDDRA	10003827	Autoimmune hepatitis	1	200762	408335007	Autoimmune hepatitis	Condition	Clinical Finding	S
+158	MEDDRA	10003827	Autoimmune hepatitis	2	4026125	197284004	Chronic active hepatitis	Condition	Clinical Finding	S
+159	MEDDRA	10058989	Portal vein occlusion	1	35624285	766945009	Complete obstruction of hepatic portal vein	Condition	Clinical Finding	S
+159	MEDDRA	10058989	Portal vein occlusion	2	4238060	57348003	Portal vein obstruction	Condition	Clinical Finding	S
+160	MEDDRA	10019728	Hepatitis alcoholic	1	4340383	235875008	Alcoholic hepatitis	Condition	Clinical Finding	S
+162	MEDDRA	10057202	Biliary dilatation	1	4146820	34707002	Biliary tract structure	Spec Anatomic Site	Body Structure	S
+162	MEDDRA	10057202	Biliary dilatation	1	4102695	25322007	Dilatation	Observation	Morph Abnormality	S
+163	MEDDRA	10056514	Benign biliary neoplasm	1	4239733	91991003	Benign neoplasm of biliary tract	Condition	Clinical Finding	S
+164	MEDDRA	10057573	Chronic hepatic failure	1	4340390	235886005	Chronic hepatic failure	Condition	Clinical Finding	S
+165	MEDDRA	10051344	Bile output abnormal	1	4135493	263654008	Abnormal	Spec Disease Status	Qualifier Value	S
+165	MEDDRA	10051344	Bile output abnormal	1	4149338	35184007	Bile secretion	Observation	Observable Entity	S
+167	MEDDRA	10061008	Biliary tract disorder	1	197917	105997008	Disorder of biliary tract	Condition	Clinical Finding	S
+168	MEDDRA	10036202	Portal pyaemia	1	192670	67656006	Portal pyemia	Condition	Clinical Finding	S
+169	MEDDRA	10014802	Endoscopic retrograde cholangiopancreatography	1	4304943	386718000	Endoscopic retrograde cholangiopancreatography	Procedure	Procedure	S
+170	MEDDRA	10005428	Blood cholinesterase	1	4179778	50684000	Pseudocholinesterase measurement	Measurement	Procedure	S
+171	MEDDRA	10019847	Hepatosplenomegaly	1	4279681	36760000	Hepatosplenomegaly	Condition	Clinical Finding	S
+172	MEDDRA	10019663	Hepatic failure	1	4245975	59927004	Hepatic failure	Condition	Clinical Finding	S
+173	MEDDRA	10063075	Cryptogenic cirrhosis	1	4232955	89580002	Cryptogenic cirrhosis	Condition	Clinical Finding	S
+174	MEDDRA	10008604	Cholangitis	1	195856	82403002	Cholangitis	Condition	Clinical Finding	S
+175	MEDDRA	10067281	Portopulmonary hypertension	1	40482858	445237003	Pulmonary arterial hypertension associated with portal hypertension	Condition	Clinical Finding	S
+176	MEDDRA	10058117	Ocular icterus	1	4081004	246975001	Scleral icterus	Condition	Clinical Finding	S
+177	MEDDRA	10039610	Schistosomiasis liver	1	4236011	90753004	Hepatic schistosomiasis	Condition	Clinical Finding	S
+178	MEDDRA	10019755	Hepatitis chronic active	1	4026125	197284004	Chronic active hepatitis	Condition	Clinical Finding	S
+179	MEDDRA	10019708	Hepatic steatosis	2	4059290	197321007	Steatosis of liver	Condition	Clinical Finding	S
+180	MEDDRA	10066955	Single photon emission computerised tomogram	1	4019823	105371005	Single photon emission computerized tomography	Procedure	Procedure	S
+181	MEDDRA	10019772	Hepatitis fulminant	1	4143845	427044009	Fulminant hepatitis	Condition	Clinical Finding	S
+183	MEDDRA	10004637	Bile duct stone	1	443792	30093007	Calculus of bile duct	Condition	Clinical Finding	S
+184	MEDDRA	10004661	Biliary cirrhosis primary	1	4135822	31712002	Primary biliary cholangitis	Condition	Clinical Finding	S
+185	MEDDRA	10023136	Jaundice hepatocellular	1	4282941	66789005	Hepatocellular jaundice	Condition	Clinical Finding	S
+186	MEDDRA	10073069	Hepatic cancer	1	4246127	93870000	Malignant neoplasm of liver	Condition	Clinical Finding	S
+187	MEDDRA	10024712	Liver tenderness	1	4010482	102627005	Liver tender	Condition	Clinical Finding	S
+188	MEDDRA	10057851	Ultrasound biliary tract abnormal	1	4135493	263654008	Abnormal	Spec Disease Status	Qualifier Value	S
+188	MEDDRA	10057851	Ultrasound biliary tract abnormal	1	4194854	44052005	Ultrasonography of biliary tract	Procedure	Procedure	S
+189	MEDDRA	10008609	Cholangitis sclerosing	1	4340953	235917005	Sclerosing cholangitis	Condition	Clinical Finding	S
+190	MEDDRA	10062000	Hepatobiliary disease	1	194984	235856003	Disease of liver	Condition	Clinical Finding	S
+190	MEDDRA	10062000	Hepatobiliary disease	2	197917	105997008	Disorder of biliary tract	Condition	Clinical Finding	S
+192	MEDDRA	10058947	Haemobilia	1	4279640	66556007	Hemobilia	Condition	Clinical Finding	S
+193	MEDDRA	10027457	Metastases to liver	1	198700	94381002	Secondary malignant neoplasm of liver	Condition	Clinical Finding	S
+194	MEDDRA	10005369	Blood bilirubin unconjugated	1	4018181	104553007	Bilirubin, non-glucuronidated measurement	Measurement	Procedure	S
+195	MEDDRA	10005431	Blood cholinesterase increased	1	4146067	35105006	Increased	Meas Value	Qualifier Value	S
+195	MEDDRA	10005431	Blood cholinesterase increased	1	4179778	50684000	Pseudocholinesterase measurement	Measurement	Procedure	S
+196	MEDDRA	10062688	Transaminases abnormal	1	4041531	166646003	Alanine aminotransferase (ALT) (serum glutamic-pyruvic transaminase) (SGPT) level abnormal	Condition	Clinical Finding	S
+196	MEDDRA	10062688	Transaminases abnormal	2	4043085	166668008	AST/SGOT level abnormal	Condition	Clinical Finding	S
+197	MEDDRA	10008635	Cholestasis	1	4143915	33688009	Cholestasis	Condition	Clinical Finding	S
+197	MEDDRA	10008635	Cholestasis	2	4026155	197446008	Occlusion of bile duct	Condition	Clinical Finding	S
+197	MEDDRA	10008635	Cholestasis	3	201066	30144000	Obstruction of bile duct	Condition	Clinical Finding	S
+198	MEDDRA	10019744	Hepatitis C	1	197494	50711007	Viral hepatitis C	Condition	Clinical Finding	S
+198	MEDDRA	10019744	Hepatitis C	2	192242	235866006	Acute hepatitis C	Condition	Clinical Finding	S
+198	MEDDRA	10019744	Hepatitis C	2	198964	128302006	Chronic hepatitis C	Condition	Clinical Finding	S
+198	MEDDRA	10019744	Hepatitis C	2	4089873	186634008	Hepatitis non-A non-B	Condition	Clinical Finding	S
+198	MEDDRA	10019744	Hepatitis C	2	439672	186628001	Viral hepatitis C with coma	Condition	Clinical Finding	S
+199	MEDDRA	10056328	Hepatic ischaemia	1	4200991	52674009	Ischemia	Condition	Clinical Finding	S
+199	MEDDRA	10056328	Hepatic ischaemia	1	4009105	10200004	Liver structure	Spec Anatomic Site	Body Structure	S
+200	MEDDRA	10048245	Yellow skin	1	4021666	225549006	Yellow skin	Condition	Clinical Finding	S
+201	MEDDRA	10017635	Gallbladder non-functioning	1	4279542	367467003	Absent gallbladder function	Condition	Clinical Finding	S
+202	MEDDRA	10051012	Gastric varices	1	4237824	91109007	Gastric varices	Condition	Clinical Finding	S
+203	MEDDRA	10067969	Cholestatic liver injury	1	4318541	95556007	Cholestatic hepatitis	Condition	Clinical Finding	S
+204	MEDDRA	10021083	Hypoproteinaemia	1	4228222	8900005	Hypoproteinemia	Condition	Clinical Finding	S
+206	MEDDRA	10059766	Haemorrhagic ascites	1	4324264	71603004	Hemorrhagic ascites	Condition	Clinical Finding	S
+207	MEDDRA	10064190	Cholestatic pruritus	1	45773561	707150004	Cholestatic pruritus	Condition	Clinical Finding	S
+208	MEDDRA	10019660	Hepatic encephalopathy	1	4029488	13920009	Hepatic encephalopathy	Condition	Clinical Finding	S
+209	MEDDRA	10019668	Hepatic fibrosis	1	4267417	62484002	Hepatic fibrosis	Condition	Clinical Finding	S
+210	MEDDRA	10019842	Hepatomegaly	1	197676	80515008	Large liver	Condition	Clinical Finding	S
+211	MEDDRA	10024275	Leucine aminopeptidase increased	1	4146067	35105006	Increased	Meas Value	Qualifier Value	S
+211	MEDDRA	10024275	Leucine aminopeptidase increased	1	4267427	62540000	Leucine aminopeptidase measurement	Measurement	Procedure	S
+212	MEDDRA	10019641	Hepatic cirrhosis	1	4064161	19943007	Cirrhosis of liver	Condition	Clinical Finding	S
+213	MEDDRA	10058286	Gallbladder adenocarcinoma	1	4262123	35917007	Adenocarcinoma	Observation	Morph Abnormality	S
+213	MEDDRA	10058286	Gallbladder adenocarcinoma	1	4151384	28231008	Gallbladder structure	Spec Anatomic Site	Body Structure	S
+214	MEDDRA	10010317	Congenital absence of bile ducts	1	4030120	1287007	Congenital absence of bile duct	Condition	Clinical Finding	S
+215	MEDDRA	10073071	Hepatocellular carcinoma	1	4001171	109841003	Liver cell carcinoma	Condition	Clinical Finding	S
+216	MEDDRA	10017624	Gallbladder cholesterolosis	1	197318	61565001	Cholesterolosis of gallbladder	Condition	Clinical Finding	S
+217	MEDDRA	10027761	Mixed hepatocellular cholangiocarcinoma	1	4166154	274902006	Combined hepatocellular carcinoma and cholangiocarcinoma	Condition	Clinical Finding	S
+218	MEDDRA	10017687	Gamma-glutamyltransferase	1	4244576	60153001	gamma-Glutamyltransferase	Observation	Substance	S
+219	MEDDRA	10019851	Hepatotoxicity	1	4144765	427399008	Drug-induced disorder of liver	Condition	Clinical Finding	S
+220	MEDDRA	10019713	Hepatic vein thrombosis	1	4301208	38739001	Hepatic vein thrombosis	Condition	Clinical Finding	S
+221	MEDDRA	10034405	Perforation bile duct	1	192957	37439003	Perforation of bile duct	Condition	Clinical Finding	S
+222	MEDDRA	10010427	Congenital cystic disease of liver	1	197654	72925005	Congenital cystic disease of liver	Condition	Clinical Finding	S
+223	MEDDRA	10050287	Ammonia	1	4184927	43953005	Ammonia	Observation	Substance	S
+224	MEDDRA	10008617	Cholecystitis chronic	1	200765	20824003	Chronic cholecystitis	Condition	Clinical Finding	S
+225	MEDDRA	10066879	Gallbladder cancer metastatic	1	4313079	94312000	Secondary malignant neoplasm of gallbladder	Condition	Clinical Finding	S
+226	MEDDRA	10004269	Benign hepatic neoplasm	1	4243427	92186001	Benign neoplasm of liver	Condition	Clinical Finding	S
+227	MEDDRA	10056375	Bile duct obstruction	1	201066	30144000	Obstruction of bile duct	Condition	Clinical Finding	S
+227	MEDDRA	10056375	Bile duct obstruction	2	4026155	197446008	Occlusion of bile duct	Condition	Clinical Finding	S
+228	MEDDRA	10008602	Cholangiolitis	1	4261812	35571009	Cholangiolitis	Condition	Clinical Finding	S
+229	MEDDRA	10062693	Gallbladder enlargement	1	4101230	300344005	Gallbladder enlarged	Condition	Clinical Finding	S
+231	MEDDRA	10017631	Gallbladder fistula	1	200154	16957005	Fistula of gallbladder	Condition	Clinical Finding	S
+232	MEDDRA	10017642	Gallbladder injury	1	4094976	262805007	Injury of gallbladder	Condition	Clinical Finding	S
+233	MEDDRA	10004685	Bilirubin conjugated increased	1	4216632	39748002	Bilirubin, direct measurement	Measurement	Procedure	S
+233	MEDDRA	10004685	Bilirubin conjugated increased	1	4146067	35105006	Increased	Meas Value	Qualifier Value	S
+234	MEDDRA	10049058	HELLP syndrome	1	4316372	95605009	HELLP syndrome	Condition	Clinical Finding	S
+235	MEDDRA	10017690	Gamma-glutamyltransferase decreased	1	4053347	1250004	Decreased	Meas Value	Qualifier Value	S
+235	MEDDRA	10017690	Gamma-glutamyltransferase decreased	1	4289475	69480007	Gamma glutamyl transferase measurement	Measurement	Procedure	S
+236	MEDDRA	10019680	Hepatic infarction	1	194417	17890003	Hepatic infarction	Condition	Clinical Finding	S
+237	MEDDRA	10019707	Hepatic rupture	1	4340943	235887001	Rupture of liver	Condition	Clinical Finding	S
+238	MEDDRA	10054888	Transaminases	1	4035061	130093006	Aminotransferase	Observation	Substance	S
+239	MEDDRA	10003547	Asterixis	1	4138992	32838008	Asterixis	Condition	Clinical Finding	S
+240	MEDDRA	10019635	Hepatic artery embolism	1	4197396	80235008	Hepatic artery embolism	Condition	Clinical Finding	S
+241	MEDDRA	10058991	Hepatic vein occlusion	1	4238060	57348003	Portal vein obstruction	Condition	Clinical Finding	S
+242	MEDDRA	10001551	Alanine aminotransferase increased	1	4249568	409673008	ALT (SGPT) level raised	Condition	Clinical Finding	S
+243	MEDDRA	10073073	Hepatobiliary cancer	1	4146820	34707002	Biliary tract structure	Spec Anatomic Site	Body Structure	S
+243	MEDDRA	10073073	Hepatobiliary cancer	1	4246127	93870000	Malignant neoplasm of liver	Condition	Clinical Finding	S
+243	MEDDRA	10073073	Hepatobiliary cancer	1	443392	363346000	Malignant neoplastic disease	Condition	Clinical Finding	S
+243	MEDDRA	10073073	Hepatobiliary cancer	1	4181327	363353009	Malignant tumor of gallbladder	Condition	Clinical Finding	S
+244	MEDDRA	10059325	Hepatic cancer stage IV	1	4246127	93870000	Malignant neoplasm of liver	Condition	Clinical Finding	S
+245	MEDDRA	10005430	Blood cholinesterase decreased	1	4053347	1250004	Decreased	Meas Value	Qualifier Value	S
+245	MEDDRA	10005430	Blood cholinesterase decreased	1	4179778	50684000	Pseudocholinesterase measurement	Measurement	Procedure	S
+247	MEDDRA	10008910	Chronic hepatitis B	1	194574	61977001	Chronic type B viral hepatitis	Condition	Clinical Finding	S
+248	MEDDRA	10056523	Hepatobiliary infection	1	4146820	34707002	Biliary tract structure	Spec Anatomic Site	Body Structure	S
+248	MEDDRA	10056523	Hepatobiliary infection	1	432250	40733004	Disorder due to infection	Condition	Clinical Finding	S
+248	MEDDRA	10056523	Hepatobiliary infection	2	432250	40733004	Disorder due to infection	Condition	Clinical Finding	S
+248	MEDDRA	10056523	Hepatobiliary infection	2	4009105	10200004	Liver structure	Spec Anatomic Site	Body Structure	S
+249	MEDDRA	10003481	Aspartate aminotransferase increased	1	4042568	166669000	AST/SGOT level raised	Condition	Clinical Finding	S
+251	MEDDRA	10020942	Hypoalbuminaemia	1	4001047	119247004	Hypoalbuminemia	Condition	Clinical Finding	S
+252	MEDDRA	10029530	Non-alcoholic fatty liver	1	4026131	197315008	Non-alcoholic fatty liver	Condition	Clinical Finding	S
+253	MEDDRA	10020732	Hyperplastic cholecystopathy	1	4274015	64534006	Hyperplastic cholecystitis	Condition	Clinical Finding	S
+254	MEDDRA	10054125	Perihepatic discomfort	1	4090431	247347003	Discomfort	Condition	Clinical Finding	S
+254	MEDDRA	10054125	Perihepatic discomfort	1	4136385	264136000	Perihepatic	Observation	Qualifier Value	S
+256	MEDDRA	10005364	Blood bilirubin increased	1	4094532	26165005	Increased bilirubin level	Condition	Clinical Finding	S
+257	MEDDRA	10066424	Sphincter of Oddi dysfunction	1	4330087	430887001	Dysfunction of sphincter of Oddi	Condition	Clinical Finding	S
+258	MEDDRA	10020578	Hyperbilirubinaemia	1	4032334	14783006	Hyperbilirubinemia	Condition	Clinical Finding	S
+259	MEDDRA	10059446	Gallbladder necrosis	1	4151384	28231008	Gallbladder structure	Spec Anatomic Site	Body Structure	S
+259	MEDDRA	10059446	Gallbladder necrosis	1	4280654	6574001	Necrosis	Observation	Morph Abnormality	S
+260	MEDDRA	10066244	Hepatic sequestration	1	4316361	95557003	Red blood cell sequestration in liver	Condition	Clinical Finding	S
+261	MEDDRA	10065051	Acute hepatitis C	1	192242	235866006	Acute hepatitis C	Condition	Clinical Finding	S
+263	MEDDRA	10010075	Coma hepatic	1	377604	72836002	Hepatic coma	Condition	Clinical Finding	S
+264	MEDDRA	10003476	Aspartate aminotransferase	1	4094657	26091008	Aspartate aminotransferase	Observation	Substance	S
+265	MEDDRA	10052384	Biliary cyst	1	4340397	235924006	Cyst of biliary tract	Condition	Clinical Finding	S
+266	MEDDRA	10051590	Hepatosplenic candidiasis	1	433968	78048006	Candidiasis	Condition	Clinical Finding	S
+266	MEDDRA	10051590	Hepatosplenic candidiasis	1	4009105	10200004	Liver structure	Spec Anatomic Site	Body Structure	S
+266	MEDDRA	10051590	Hepatosplenic candidiasis	1	4302605	78961009	Splenic structure	Spec Anatomic Site	Body Structure	S
+267	MEDDRA	10058477	Blood bilirubin abnormal	1	4135493	263654008	Abnormal	Spec Disease Status	Qualifier Value	S
+267	MEDDRA	10058477	Blood bilirubin abnormal	1	4118986	302787001	Bilirubin measurement	Measurement	Procedure	S
+268	MEDDRA	10001546	Alanine aminotransferase	1	4211515	56935002	Alanine aminotransferase	Observation	Substance	S
+270	MEDDRA	10049055	Cholestasis of pregnancy	1	4340944	235888006	Cholestasis of pregnancy	Condition	Clinical Finding	S
+271	MEDDRA	10008909	Chronic hepatitis	1	200763	76783007	Chronic hepatitis	Condition	Clinical Finding	S
+273	MEDDRA	10059193	Acute hepatitis B	1	197795	76795007	Acute type B viral hepatitis	Condition	Clinical Finding	S
+274	MEDDRA	10017693	Gamma-glutamyltransferase increased	1	4171925	274782002	Gamma-glutamyl transferase raised	Condition	Clinical Finding	S
+276	MEDDRA	10008629	Cholelithiasis	1	4145627	266474003	Biliary calculus	Condition	Clinical Finding	S
+276	MEDDRA	10008629	Cholelithiasis	2	201070	29484002	Cholelithiasis AND cholecystitis without obstruction	Condition	Clinical Finding	S
+276	MEDDRA	10008629	Cholelithiasis	3	444367	70342003	Cholelithiasis without obstruction	Condition	Clinical Finding	S
+276	MEDDRA	10008629	Cholelithiasis	4	196726	197377009	Gallbladder calculus with acute cholecystitis and no obstruction	Condition	Clinical Finding	S
+277	MEDDRA	10052383	Dilatation intrahepatic duct acquired	1	4112263	255396000	Acquired	Observation	Qualifier Value	S
+277	MEDDRA	10052383	Dilatation intrahepatic duct acquired	1	4102695	25322007	Dilatation	Observation	Morph Abnormality	S
+277	MEDDRA	10052383	Dilatation intrahepatic duct acquired	1	4234107	90140006	Intrahepatic biliary tract structure	Spec Anatomic Site	Body Structure	S
+278	MEDDRA	10036204	Portal shunt	1	4049812	233444007	Portosystemic shunt operation	Procedure	Procedure	S
+279	MEDDRA	10008630	Cholelithiasis obstructive	1	4300203	77528005	Cholelithiasis with obstruction	Condition	Clinical Finding	S
+279	MEDDRA	10008630	Cholelithiasis obstructive	2	195587	50450007	Cholelithiasis AND cholecystitis with obstruction	Condition	Clinical Finding	S
+280	MEDDRA	10003445	Ascites	1	200528	389026000	Ascites	Condition	Clinical Finding	S
+280	MEDDRA	10003445	Ascites	2	194983	78609007	Chronic peritoneal effusion	Condition	Clinical Finding	S
+281	MEDDRA	10005362	Blood bilirubin	1	4118986	302787001	Bilirubin measurement	Measurement	Procedure	S
+282	MEDDRA	10011830	Cytomegalovirus hepatitis	1	4092685	186698009	Cytomegalovirus hepatitis	Condition	Clinical Finding	S
+283	MEDDRA	10008612	Cholecystitis	1	192956	76581006	Cholecystitis	Condition	Clinical Finding	S
+283	MEDDRA	10008612	Cholecystitis	2	4288676	396335001	Acute and chronic cholecystitis	Condition	Clinical Finding	S
+284	MEDDRA	10036205	Portal vein phlebitis	1	4310665	85514005	Phlebitis of portal vein	Condition	Clinical Finding	S
+285	MEDDRA	10017688	Gamma-glutamyltransferase abnormal	1	4041532	166649005	Gamma-glutamyl transferase level abnormal	Condition	Clinical Finding	S
+286	MEDDRA	10076331	Steatohepatitis	1	40482277	442191002	Steatohepatitis	Condition	Clinical Finding	S
+287	MEDDRA	10073070	Hepatic cancer recurrent	1	443392	363346000	Malignant neoplastic disease	Condition	Clinical Finding	S
+287	MEDDRA	10073070	Hepatic cancer recurrent	1	4113136	255227004	Recurrent	Observation	Qualifier Value	S
+288	MEDDRA	10019670	Hepatic function abnormal	1	4326594	75183008	Abnormal liver function	Condition	Clinical Finding	S
+289	MEDDRA	10067718	Bilirubin conjugated abnormal	1	4135493	263654008	Abnormal	Spec Disease Status	Qualifier Value	S
+289	MEDDRA	10067718	Bilirubin conjugated abnormal	1	4216632	39748002	Bilirubin, direct measurement	Measurement	Procedure	S
+290	MEDDRA	10056956	Subacute hepatic failure	1	4059281	197275004	Subacute hepatic failure	Condition	Clinical Finding	S
+291	MEDDRA	10023126	Jaundice	1	137977	18165001	Jaundice	Condition	Clinical Finding	S
+292	MEDDRA	10018267	Gilbert's syndrome	1	4099740	27503000	Gilbert's syndrome	Condition	Clinical Finding	S
+293	MEDDRA	10054889	Transaminases increased	1	436238	274774002	Elevated levels of transaminase & lactic acid dehydrogenase	Condition	Clinical Finding	S
+294	MEDDRA	10025697	Malignant neoplasm of ampulla of Vater	1	4178966	363417006	Malignant tumor of ampulla of Vater	Condition	Clinical Finding	S
+294	MEDDRA	10025697	Malignant neoplasm of ampulla of Vater	2	441225	371967001	Primary malignant neoplasm of ampulla of Vater	Condition	Clinical Finding	S
+295	MEDDRA	10019629	Hepatic adenoma	1	4310731	424263008	Adenoma of liver	Condition	Clinical Finding	S
+296	MEDDRA	10000746	Acute fatty liver of pregnancy	1	37396531	716379000	Acute fatty liver of pregnancy	Condition	Clinical Finding	S
+297	MEDDRA	10008614	Cholecystitis acute	1	198809	65275009	Acute cholecystitis	Condition	Clinical Finding	S
+298	MEDDRA	10051733	Portal vein stenosis	1	4138976	32764006	Portal vein structure	Spec Anatomic Site	Body Structure	S
+298	MEDDRA	10051733	Portal vein stenosis	1	4217691	415582006	Stenosis	Observation	Morph Abnormality	S
+299	MEDDRA	10068884	Cholelithiasis migration	1	4145627	266474003	Biliary calculus	Condition	Clinical Finding	S
+300	MEDDRA	10003477	Aspartate aminotransferase abnormal	1	4043085	166668008	AST/SGOT level abnormal	Condition	Clinical Finding	S
+301	MEDDRA	10004684	Bilirubin conjugated	1	4184442	54462003	Direct reacting bilirubin	Observation	Substance	S
+302	MEDDRA	10024690	Liver function test abnormal	1	438878	166603001	Liver function tests abnormal	Condition	Clinical Finding	S
+303	MEDDRA	10063741	Hepatic amoebiasis	1	194560	75119003	Amebic liver abscess	Condition	Clinical Finding	S
+304	MEDDRA	10051705	Hepatic cyst infection	1	432250	40733004	Disorder due to infection	Condition	Clinical Finding	S
+304	MEDDRA	10051705	Hepatic cyst infection	1	4225905	85057007	Liver cyst	Condition	Clinical Finding	S
+305	MEDDRA	10019637	Hepatic atrophy	1	4231698	89835009	Atrophy of liver	Condition	Clinical Finding	S
+306	MEDDRA	10056668	Emphysematous cholecystitis	1	4318836	95558008	Pneumocholecystitis	Condition	Clinical Finding	S
+307	MEDDRA	10019692	Hepatic necrosis	1	4337543	87248009	Hepatic necrosis	Condition	Clinical Finding	S
+308	MEDDRA	10060795	Hepatic enzyme increased	1	436238	274774002	Elevated levels of transaminase & lactic acid dehydrogenase	Condition	Clinical Finding	S
+308	MEDDRA	10060795	Hepatic enzyme increased	2	45769139	707724006	Elevated liver enzymes level	Condition	Clinical Finding	S
+310	MEDDRA	10019717	Hepatitis	1	194990	128241005	Inflammatory disease of liver	Condition	Clinical Finding	S
+311	MEDDRA	10017649	Gallstone ileus	1	198475	37976006	Gallstone ileus	Condition	Clinical Finding	S
+312	MEDDRA	10049869	Blood bilirubin decreased	1	4050611	124078008	Decreased bilirubin level	Condition	Clinical Finding	S
+313	MEDDRA	10068237	Hypertransaminasaemia	1	4042568	166669000	AST/SGOT level raised	Condition	Clinical Finding	S
+313	MEDDRA	10068237	Hypertransaminasaemia	2	4249568	409673008	ALT (SGPT) level raised	Condition	Clinical Finding	S
+314	MEDDRA	10018872	Haemochromatosis	1	4163735	399187006	Hemochromatosis	Condition	Clinical Finding	S
+315	MEDDRA	10024670	Liver disorder	1	194984	235856003	Disease of liver	Condition	Clinical Finding	S
+316	MEDDRA	10064676	Graft versus host disease in liver	1	443216	234646005	Graft versus host disease	Condition	Clinical Finding	S
+316	MEDDRA	10064676	Graft versus host disease in liver	1	4009105	10200004	Liver structure	Spec Anatomic Site	Body Structure	S
+317	MEDDRA	10065215	Hepatic infection bacterial	1	37399734	318191000009109	Bacterial hepatitis	Condition	Clinical Finding	S
+318	MEDDRA	10051734	Hepatic vein stenosis	1	4217691	415582006	Stenosis	Observation	Morph Abnormality	S
+318	MEDDRA	10051734	Hepatic vein stenosis	1	4233953	8993003	Structure of hepatic vein	Spec Anatomic Site	Body Structure	S
+319	MEDDRA	10018704	Granulomatous liver disease	1	4029363	128561003	Granulomatous disorder	Condition	Clinical Finding	S
+319	MEDDRA	10018704	Granulomatous liver disease	1	4009105	10200004	Liver structure	Spec Anatomic Site	Body Structure	S
+320	MEDDRA	10003479	Aspartate aminotransferase decreased	1	4094657	26091008	Aspartate aminotransferase	Observation	Substance	S
+320	MEDDRA	10003479	Aspartate aminotransferase decreased	1	4083207	281300000	Below reference range	Meas Value	Qualifier Value	S
+321	MEDDRA	10019794	Hepatitis syphilitic	1	4055221	197347003	Hepatitis in late syphilis	Condition	Clinical Finding	S
+321	MEDDRA	10019794	Hepatitis syphilitic	2	4215747	80770009	Secondary syphilis of liver	Condition	Clinical Finding	S
+321	MEDDRA	10019794	Hepatitis syphilitic	3	194861	86028001	Syphilis of liver	Condition	Clinical Finding	S
+322	MEDDRA	10067554	Perihepatic abscess	1	201901	27916005	Abscess of liver	Condition	Clinical Finding	S
+322	MEDDRA	10067554	Perihepatic abscess	1	4136385	264136000	Perihepatic	Observation	Qualifier Value	S
+323	MEDDRA	10051081	Nodular regenerative hyperplasia	1	37018557	715140008	Nodular regenerative hyperplasia of liver	Condition	Clinical Finding	S
+324	MEDDRA	10061203	Hepatobiliary neoplasm	1	4129884	126853008	Neoplasm of biliary tract	Condition	Clinical Finding	S
+324	MEDDRA	10061203	Hepatobiliary neoplasm	2	4130518	126851005	Neoplasm of liver	Condition	Clinical Finding	S
+325	MEDDRA	10004668	Biliary neoplasm	1	4129884	126853008	Neoplasm of biliary tract	Condition	Clinical Finding	S
+326	MEDDRA	10067389	Herpes simplex hepatitis	1	444429	88594005	Herpes simplex	Condition	Clinical Finding	S
+326	MEDDRA	10067389	Herpes simplex hepatitis	1	4009105	10200004	Liver structure	Spec Anatomic Site	Body Structure	S
+327	MEDDRA	10050792	Urine bilirubin increased	1	4230546	359992002	Bilirubin measurement, urine	Measurement	Procedure	S
+327	MEDDRA	10050792	Urine bilirubin increased	1	4124458	260399008	Raised	Meas Value	Qualifier Value	S
+328	MEDDRA	10057229	Post cholecystectomy syndrome	1	200444	90782003	Postcholecystectomy syndrome	Condition	Clinical Finding	S
+329	MEDDRA	10067737	Lupus hepatitis	1	4057084	19682006	Lupus hepatitis	Condition	Clinical Finding	S
+331	MEDDRA	10030897	Opisthorchiasis	1	444117	1059007	Opisthorchiasis	Condition	Clinical Finding	S
+332	MEDDRA	10004585	Bile duct adenocarcinoma	1	4321680	70179006	Cholangiocarcinoma	Observation	Morph Abnormality	S
+333	MEDDRA	10052246	Gallbladder abscess	1	4137285	32038009	Abscess of gallbladder	Condition	Clinical Finding	S
+335	MEDDRA	10055111	Biliary cancer metastatic	1	4146820	34707002	Biliary tract structure	Spec Anatomic Site	Body Structure	S
+335	MEDDRA	10055111	Biliary cancer metastatic	1	432851	128462008	Secondary malignant neoplastic disease	Condition	Clinical Finding	S
+336	MEDDRA	10004659	Biliary cirrhosis	1	192675	1761006	Biliary cirrhosis	Condition	Clinical Finding	S
+337	MEDDRA	10001552	Alanine aminotransferase normal	1	4042564	166645004	Alanine aminotransferase (ALT) (serum glutamic-pyruvic transaminase) (SGPT) level normal	Condition	Clinical Finding	S
+338	MEDDRA	10045428	Ultrasound liver abnormal	1	40484531	442684004	Imaging of liver abnormal	Condition	Clinical Finding	S
+339	MEDDRA	10054936	Cardiac cirrhosis	1	4252074	74669004	Cardiac cirrhosis	Condition	Clinical Finding	S
+340	MEDDRA	10008912	Chronic hepatitis C	1	198964	128302006	Chronic hepatitis C	Condition	Clinical Finding	S
+341	MEDDRA	10059506	Urobilinogen urine	1	4283360	67410005	Urobilinogen measurement, urine	Measurement	Procedure	S
+343	MEDDRA	10053870	Alagille syndrome	1	4136964	31742004	Arteriohepatic dysplasia	Condition	Clinical Finding	S
+344	MEDDRA	10004596	Bile duct cancer recurrent	1	4181345	363415003	Malignant tumor of biliary tract	Condition	Clinical Finding	S
+344	MEDDRA	10004596	Bile duct cancer recurrent	1	4113136	255227004	Recurrent	Observation	Qualifier Value	S
+347	MEDDRA	10004664	Biliary fibrosis	1	4170063	48124008	Fibrosis of bile duct	Condition	Clinical Finding	S
+348	MEDDRA	10065203	Biliary tract infection fungal	1	4146820	34707002	Biliary tract structure	Spec Anatomic Site	Body Structure	S
+348	MEDDRA	10065203	Biliary tract infection fungal	1	4207190	312146001	Fungal infection by site	Condition	Clinical Finding	S
