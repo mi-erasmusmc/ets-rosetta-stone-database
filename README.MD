@@ -1,6 +1,6 @@
-## ETRANSAFE ROSETTA STONE DATABASE
+## eTransafe Rosetta Stone Database
 
-Java app to construct the database for the eTransafe Rosette Stone.
+**Java code to construct the database for the eTransafe Rosette Stone.**
 
 ### REQUIREMENTS
 
@@ -34,8 +34,8 @@ Notes:
 
 ### WHAT IS NEXT?
 
-When you have the database ready to go, you can run the eTransafe Rosetta Stone application which will be
-available soon
+When you have the database ready to go, you can run the eTransafe Rosetta Stone application which is
+available [here](https://github.com/mi-erasmusmc/ets-rosetta-stone)
 
 ### CONTRIBUTIONS
 
