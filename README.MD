@@ -25,6 +25,8 @@
 
 Notes:
 
+- The loading process will fail if mappings are out of sync with the source terminologies, error
+  messages that should be somehow useful will be displayed
 - Loading the DB may take up to several hours, be patient.
 
 - By default, this code will add the Mouse Anatomy vocabulary as found
