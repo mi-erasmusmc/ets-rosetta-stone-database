@@ -4,9 +4,9 @@
 
 ### REQUIREMENTS
 
-- MySQL version 8+
+- MySQL version 8
 - Java 17+
-- Maven
+- Maven 3.8
 - OMOP CDM Vocabulary from Athena
 - UMLS MRCONSO.RRF file
 - MedDRA ascii files

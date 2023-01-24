@@ -75,6 +75,7 @@ public class DatabaseCreator {
                 .addOption("server", true, "Database server")
                 .addOption("database", true, "Target database")
                 .addOption("umls", true, "UMLS database")
+                .addOption("meddra", true, "MedDRA database")
                 .addOption("user", true, "MySQL username")
                 .addOption("password", true, "MySQL password")
                 .addOption("etox", true, "Set true to load eTox Mouse Anatomy version");
